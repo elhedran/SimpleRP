@@ -8,12 +8,12 @@ SOURCES=$(wildcard *.svg)
 OBJECTS=$(addprefix $(OBJDIR)/,$(SOURCES:.svg=.png))
 #OBJECTS=$(SOURCES:.svg=.png)
 
-$(OBJECTS):
-	echo $(@)
+all: $(OBJECTS) subdirs $(SUBDIRS)
+
+$(OBJECTS): $(addprefix $(SRCDIR),$(@F:.png=.svg))
 	mkdir -p $(@D)
 	inkscape -z -e $@ -C -w 128 -h 128 $(@F:.png=.svg)
 
-all: $(OBJECTS) $(SUBDIRS)
-
+.PHONY: subdirs $(SUBDIRS)
 $(SUBDIRS):
 	$(MAKE) -C $@ RELATIVE=$(RELATIVE)/$@

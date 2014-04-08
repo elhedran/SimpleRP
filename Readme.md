@@ -15,5 +15,13 @@ here.
 
 If you wish to contribute, please grab a copy of the Open Source vector editing program, [Inkscape]. This is the tool used both to edit and render the svg's to png files.
 
+# Building
+
+Make sure inkscape is in your path and that you have GNU make
+
+- Checkout
+- make
+- look in build.
+
 [Inkscape]: http://www.inkscape.org/
 [GPL]: https://www.gnu.org/copyleft/gpl.html
