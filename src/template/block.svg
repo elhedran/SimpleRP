@@ -42,8 +42,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.656854"
-     inkscape:cx="27.504205"
-     inkscape:cy="54.354601"
+     inkscape:cx="-3.2549413"
+     inkscape:cy="52.675222"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:document-units="px"
@@ -96,6 +96,7 @@
             <dc:title>Ian Walters</dc:title>
           </cc:Agent>
         </dc:creator>
+        <dc:source>SimpleRP</dc:source>
       </cc:Work>
     </rdf:RDF>
   </metadata>
