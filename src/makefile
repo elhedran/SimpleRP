@@ -4,7 +4,7 @@ OBJDIR := $(PWD)
 SOURCES=$(wildcard assets/minecraft/textures/blocks/*.svg)
 OBJECTS=$(addprefix $(OBJDIR)/,$(SOURCES:.svg=.png))
 
-all: $(OBJECTS) quant
+all: $(OBJECTS) quant pack.mcmeta
 	cp pack.mcmeta $(OBJDIR)
 
 $(OBJECTS): $(OBJDIR)/%.png : %.svg
