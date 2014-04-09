@@ -1,3 +1,5 @@
+DPI ?= 90
+
 OBJDIR := $(PWD)
 SOURCES=$(wildcard assets/minecraft/textures/blocks/*.svg)
 OBJECTS=$(addprefix $(OBJDIR)/,$(SOURCES:.svg=.png))
@@ -8,7 +10,7 @@ all: $(OBJECTS)
 $(OBJECTS): $(OBJDIR)/%.png : %.svg
 	echo "from $< .. $@"
 	mkdir -p $(@D)
-	inkscape -z -e $@ -C -w 128 -h 128 $<
+	inkscape -z -e $@ -C -d $(DPI) $<
 
 .PHONY: clean
 clean:
