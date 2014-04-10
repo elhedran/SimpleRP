@@ -71,53 +71,39 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3849"
-       id="linearGradient4006"
+       id="linearGradient3020"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-77.6,-20.8)"
+       gradientTransform="translate(205.6,71.2)"
        x1="64"
        y1="8"
        x2="64"
        y2="40" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3849"
-       id="linearGradient4010"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-133.6,15.2)"
-       x1="64"
-       y1="8"
-       x2="64"
-       y2="40" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3849"
-       id="linearGradient4014"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-73.6,47.2)"
-       x1="64"
-       y1="8"
-       x2="64"
-       y2="40" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3849"
-       id="linearGradient4018"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-73.6,-80.8)"
-       x1="64"
-       y1="8"
-       x2="64"
-       y2="40" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3849"
-       id="linearGradient4020"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-129.6,-59.2)"
-       x1="64"
-       y1="8"
-       x2="64"
-       y2="40" />
+    <filter
+       id="filter3030"
+       inkscape:label="Feather"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Blurred mask on the edge without altering the contents"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur3032"
+         result="result6"
+         stdDeviation="3" />
+      <feComposite
+         id="feComposite3034"
+         in2="result6"
+         operator="atop"
+         in="SourceGraphic"
+         result="result91" />
+      <feComposite
+         id="feComposite3036"
+         in2="result91"
+         operator="in"
+         result="result92" />
+      <feComposite
+         id="feComposite3038"
+         in2="result92"
+         operator="in" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -127,8 +113,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.9999998"
-     inkscape:cx="117.10068"
-     inkscape:cy="50.497767"
+     inkscape:cx="126.40784"
+     inkscape:cy="66.711558"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:document-units="px"
@@ -198,33 +184,28 @@
        x="0"
        y="0"
        transform="translate(0,-64)" />
-    <g
-       id="g3863">
-      <path
-         id="path3891"
-         style="fill:url(#linearGradient4020);fill-opacity:1;stroke:none;filter:url(#filter3994)"
-         d="m -97.6,-51.2 c 16,0 48,8 64,8 16,0 48,-8 64,-8 l 0,24 c -16,0 -48,8 -64,8 -16,0 -48,-8 -64,-8 z m 128,0 c 16,0 48,8 64,8 16,0 48,-8 64,-8 l 0,24 c -16,0 -48,8 -64,8 -16,0 -48,-8 -64,-8 z"
-         inkscape:connector-curvature="0" />
-      <path
-         d="m -45.6,-12.8 c 16,0 48,8 64,8 16,0 48,-8 64,-8 l 0,24 c -16,0 -48,8 -64,8 -16,0 -48,-8 -64,-8 z m 128,0 c 16,0 48,8 64,8 16,0 48,-8 64,-8 l 0,24 c -16,0 -48,8 -64,8 -16,0 -48,-8 -64,-8 z"
-         style="fill:url(#linearGradient4006);fill-opacity:1;stroke:none;filter:url(#filter3994)"
-         id="path4004"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path4008"
-         style="fill:url(#linearGradient4010);fill-opacity:1;stroke:none;filter:url(#filter3994)"
-         d="m -101.6,23.2 c 16,0 48,8 64,8 16,0 48,-8 64,-8 l 0,24 c -16,0 -48,8 -64,8 -16,0 -48,-8 -64,-8 z m 128,0 c 16,0 48,8 64,8 16,0 48,-8 64,-8 l 0,24 c -16,0 -48,8 -64,8 -16,0 -48,-8 -64,-8 z" />
-      <path
-         d="m -41.6,55.2 c 16,0 48,8 64,8 16,0 48,-8 64,-8 l 0,24 c -16,0 -48,8 -64,8 -16,0 -48,-8 -64,-8 z m 128,0 c 16,0 48,8 64,8 16,0 48,-8 64,-8 l 0,24 c -16,0 -48,8 -64,8 -16,0 -48,-8 -64,-8 z"
-         style="fill:url(#linearGradient4014);fill-opacity:1;stroke:none;filter:url(#filter3994)"
-         id="path4012"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path4016"
-         style="fill:url(#linearGradient4018);fill-opacity:1;stroke:none;filter:url(#filter3994)"
-         d="m -41.6,-72.8 c 16,0 48,8 64,8 16,0 48,-8 64,-8 l 0,24 c -16,0 -48,8 -64,8 -16,0 -48,-8 -64,-8 z m 128,0 c 16,0 48,8 64,8 16,0 48,-8 64,-8 l 0,24 c -16,0 -48,8 -64,8 -16,0 -48,-8 -64,-8 z" />
-    </g>
+    <path
+       d="m 237.6,79.2 c 16,0 48,8 64,8 16,0 48,-8 64,-8 l 0,24 c -16,0 -48,8 -64,8 -16,0 -48,-8 -64,-8 z m 128,0 c 16,0 48,8 64,8 16,0 48,-8 64,-8 l 0,24 c -16,0 -48,8 -64,8 -16,0 -48,-8 -64,-8 z"
+       style="fill:url(#linearGradient3020);fill-opacity:1;stroke:none;filter:url(#filter3994)"
+       id="path4016"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#fff6d5;stroke:none;filter:url(#filter3030)"
+       d="m -25.6,-59.2 c 16,0 48,-16 64,-16 16,0 48,16 64,16 16,0 48,-16 64,-16 16,0 48,16 64,16 16,0 48,-16 64,-16 16,0 48,16 64,16 l 0,32 c -16,0 -48,-16 -64,-16 -16,0 -48,16 -64,16 -16,0 -48,-16 -64,-16 -16,0 -48,16 -64,16 -16,0 -48,-16 -64,-16 -16,0 -48,16 -64,16 l 0,-32"
+       id="path3022"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssssccssssscc" />
+    <path
+       sodipodi:nodetypes="csssssccssssscc"
+       inkscape:connector-curvature="0"
+       id="path3200"
+       d="m -25.6,4.8 c 16,0 48,-16 64,-16 16,0 48,16 64,16 16,0 48,-16 64,-16 16,0 48,16 64,16 16,0 48,-16 64,-16 16,0 48,16 64,16 l 0,32 c -16,0 -48,-16 -64,-16 -16,0 -48,16 -64,16 -16,0 -48,-16 -64,-16 -16,0 -48,16 -64,16 -16,0 -48,-16 -64,-16 -16,0 -48,16 -64,16 l 0,-32"
+       style="fill:#fff6d5;stroke:none;filter:url(#filter3030)" />
+    <path
+       style="fill:#fff6d5;stroke:none;filter:url(#filter3030)"
+       d="m -25.6,68.8 c 16,0 48,-16 64,-16 16,0 48,16 64,16 16,0 48,-16 64,-16 16,0 48,16 64,16 16,0 48,-16 64,-16 16,0 48,16 64,16 l 0,32 c -16,0 -48,-16 -64,-16 -16,0 -48,16 -64,16 -16,0 -48,-16 -64,-16 -16,0 -48,16 -64,16 -16,0 -48,-16 -64,-16 -16,0 -48,16 -64,16 l 0,-32"
+       id="path3202"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssssccssssscc" />
   </g>
 </svg>
