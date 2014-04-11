@@ -1,7 +1,10 @@
 DPI ?= 90
 
 OBJDIR := $(PWD)
+
 SOURCES=$(wildcard assets/minecraft/textures/blocks/*.svg)
+SOURCES+=$(wildcard assets/minecraft/textures/colormap/*.svg)
+
 OBJECTS=$(addprefix $(OBJDIR)/,$(SOURCES:.svg=.png))
 SOURCES_V=$(addsuffix _V,$(SOURCES))
 
