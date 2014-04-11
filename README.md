@@ -15,6 +15,16 @@ here.
 
 If you wish to contribute, please grab a copy of the Open Source vector editing program, [Inkscape]. This is the tool used both to edit and render the svg's to png files.
 
+# Design Approach
+
+This is evolving but so far we have:
+
+- Soft color gradients (feather, std-dev 3, use xml-editor to change) for natural materials (sand, dirt, grass)
+- Hard color edges for manufactured 'In Base' materials (panel, bricks, furnace)
+- Minimal detail.  If in doubt, do less (less, gradient, less objects, etc)
+- Curves where possible. Slight curve on wood panel edges for example.
+- Minimal palette - feathered edges excepted.
+
 # Building
 
 Make sure inkscape is in your path and that you have GNU make
