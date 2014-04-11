@@ -31,7 +31,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="3.9999998"
      inkscape:cx="66.108942"
-     inkscape:cy="59.262778"
+     inkscape:cy="56.887778"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:document-units="px"
@@ -93,119 +93,6 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      transform="translate(0,64)">
-    <g
-       inkscape:label="Layer 1"
-       id="layer1-3"
-       transform="translate(-100,-4)">
-      <rect
-         ry="4"
-         y="-60"
-         x="4"
-         height="12"
-         width="12"
-         id="rect3064"
-         style="fill:#af874c;fill-opacity:1;stroke:none" />
-      <rect
-         ry="4"
-         y="-60"
-         x="20"
-         height="12"
-         width="12"
-         id="rect3066"
-         style="fill:#836638;fill-opacity:1;stroke:none" />
-      <rect
-         style="fill:#aa9960;fill-opacity:1;stroke:none"
-         id="rect4124"
-         width="12"
-         height="12"
-         x="20"
-         y="-44"
-         ry="4" />
-      <rect
-         style="fill:#cfc277;fill-opacity:1;stroke:none"
-         id="rect4126"
-         width="12"
-         height="12"
-         x="4"
-         y="-44"
-         ry="4" />
-      <rect
-         ry="4"
-         y="-28"
-         x="20"
-         height="12"
-         width="12"
-         id="rect4128"
-         style="fill:#4e371f;fill-opacity:1;stroke:none" />
-      <rect
-         ry="4"
-         y="-28"
-         x="4"
-         height="12"
-         width="12"
-         id="rect4130"
-         style="fill:#835218;fill-opacity:1;stroke:none" />
-      <rect
-         style="fill:#8c5c3d;fill-opacity:1;stroke:none"
-         id="rect4320"
-         width="12"
-         height="12"
-         x="20"
-         y="-12"
-         ry="4" />
-      <rect
-         style="fill:#af6a48;fill-opacity:1;stroke:none"
-         id="rect4322"
-         width="12"
-         height="12"
-         x="4"
-         y="-12"
-         ry="4" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text4452"
-         y="-51"
-         x="36"
-         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="-51"
-           x="36"
-           id="tspan4454"
-           sodipodi:role="line">Oak</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text4456"
-         y="-35"
-         x="36"
-         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="-35"
-           x="36"
-           id="tspan4458"
-           sodipodi:role="line">Birch</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text4460"
-         y="-19"
-         x="36"
-         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="-19"
-           x="36"
-           id="tspan4462"
-           sodipodi:role="line">Spruce</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text4464"
-         y="-3"
-         x="36"
-         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="-3"
-           x="36"
-           id="tspan4466"
-           sodipodi:role="line">Jungle</tspan></text>
-    </g>
     <rect
        style="fill:#aa9960;fill-opacity:1;stroke:none"
        id="rect3363"
@@ -236,7 +123,7 @@
        sodipodi:cy="-34"
        sodipodi:rx="8"
        sodipodi:ry="2"
-       d="m 40,-34 a 8,2 0 1 1 -16,0 8,2 0 1 1 16,0 z"
+       d="m 40,-34 c 0,1.104569 -3.581722,2 -8,2 -4.418278,0 -8,-0.895431 -8,-2 0,-1.104569 3.581722,-2 8,-2 4.418278,0 8,0.895431 8,2 z"
        transform="translate(40,20)" />
   </g>
 </svg>
