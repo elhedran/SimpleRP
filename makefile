@@ -6,7 +6,7 @@ meta: r128 r64 r32 r16
 
 raster: r128 r64 r32 r16
 
-vacuum: r128 r64 r32 r16
+vacuum: r128
 
 r16:
 	mkdir -p build/16
