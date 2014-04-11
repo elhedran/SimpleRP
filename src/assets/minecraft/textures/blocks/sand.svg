@@ -73,7 +73,7 @@
        xlink:href="#linearGradient3849"
        id="linearGradient3020"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(205.6,71.2)"
+       gradientTransform="translate(-54.4,108.8)"
        x1="64"
        y1="8"
        x2="64"
@@ -114,7 +114,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="3.9999998"
      inkscape:cx="126.40784"
-     inkscape:cy="66.711558"
+     inkscape:cy="56.711558"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:document-units="px"
@@ -185,7 +185,7 @@
        y="0"
        transform="translate(0,-64)" />
     <path
-       d="m 237.6,79.2 c 16,0 48,8 64,8 16,0 48,-8 64,-8 l 0,24 c -16,0 -48,8 -64,8 -16,0 -48,-8 -64,-8 z m 128,0 c 16,0 48,8 64,8 16,0 48,-8 64,-8 l 0,24 c -16,0 -48,8 -64,8 -16,0 -48,-8 -64,-8 z"
+       d="m -22.4,116.8 c 16,0 48,8 64,8 16,0 48,-8 64,-8 l 0,24 c -16,0 -48,8 -64,8 -16,0 -48,-8 -64,-8 z m 128,0 c 16,0 48,8 64,8 16,0 48,-8 64,-8 l 0,24 c -16,0 -48,8 -64,8 -16,0 -48,-8 -64,-8 z"
        style="fill:url(#linearGradient3020);fill-opacity:1;stroke:none;filter:url(#filter3994)"
        id="path4016"
        inkscape:connector-curvature="0" />
