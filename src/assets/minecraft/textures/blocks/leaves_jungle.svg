@@ -15,7 +15,7 @@
    id="svg2985"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="leaves_birch.svg"
+   sodipodi:docname="leaves_jungle_opaque.svg"
    inkscape:export-filename="/Users/ianw/drawing.png"
    inkscape:export-xdpi="180"
    inkscape:export-ydpi="180">
@@ -42,15 +42,15 @@
      borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.828427"
-     inkscape:cx="-53.662261"
-     inkscape:cy="84.655527"
+     inkscape:zoom="3.9999998"
+     inkscape:cx="23.131107"
+     inkscape:cy="57.178129"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
      inkscape:snap-bbox="true"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      inkscape:snap-grids="true"
      inkscape:window-width="2127"
      inkscape:window-height="976"
@@ -325,14 +325,6 @@
        height="128"
        transform="matrix(0.99957677,0.02909097,-0.02909097,0.99957677,-61.206909,50.214987)" />
     <use
-       id="use15160"
-       xlink:href="#g14810"
-       x="0"
-       y="0"
-       width="128"
-       height="128"
-       transform="matrix(0.98865884,-0.15017886,0.15017886,0.98865884,-54.713842,95.625362)" />
-    <use
        id="use15168"
        xlink:href="#g14810"
        x="0"
@@ -540,6 +532,24 @@
        width="128"
        height="128"
        transform="matrix(0.27060778,-0.96268968,0.96268968,0.27060778,53.343829,115.94597)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#dec25f;fill-opacity:1;stroke:#a98b22;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path17208"
+       sodipodi:cx="-98"
+       sodipodi:cy="70"
+       sodipodi:rx="14"
+       sodipodi:ry="14"
+       d="m -84,70 a 14,14 0 1 1 -28,0 14,14 0 1 1 28,0 z"
+       transform="matrix(0.81594686,0,0,0.958804,119.38605,-39.11628)" />
+    <use
+       id="use15160"
+       xlink:href="#g14810"
+       x="0"
+       y="0"
+       width="128"
+       height="128"
+       transform="matrix(0.98865884,-0.15017886,0.15017886,0.98865884,-54.713842,95.625362)" />
     <use
        id="use15258"
        xlink:href="#g14810"
@@ -612,6 +622,16 @@
        width="128"
        height="128"
        transform="matrix(0.90806387,0.41883172,-0.41883172,0.90806387,7.408419,-17.365728)" />
+    <path
+       transform="matrix(0.81594686,0,0,0.958804,175.96279,-89.693024)"
+       d="m -84,70 a 14,14 0 1 1 -28,0 14,14 0 1 1 28,0 z"
+       sodipodi:ry="14"
+       sodipodi:rx="14"
+       sodipodi:cy="70"
+       sodipodi:cx="-98"
+       id="path17718"
+       style="fill:#dec25f;fill-opacity:1;stroke:#a98b22;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="arc" />
     <use
        id="use15298"
        xlink:href="#g14810"
@@ -912,5 +932,19 @@
        x="0"
        xlink:href="#g14810"
        id="use15392" />
+    <image
+       y="32"
+       x="192"
+       id="image16769"
+       xlink:href="file:///Users/ianw/play/SimpleRP/src/default/assets/minecraft/textures/blocks/leaves_jungle_opaque.png"
+       height="32"
+       width="32" />
+    <image
+       y="0"
+       x="192"
+       id="image16863"
+       xlink:href="file:///Users/ianw/play/SimpleRP/src/default/assets/minecraft/textures/blocks/leaves_jungle.png"
+       height="32"
+       width="32" />
   </g>
 </svg>
