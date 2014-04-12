@@ -24,6 +24,21 @@
   <defs
      id="defs2987">
     <linearGradient
+       id="linearGradient4549">
+      <stop
+         style="stop-color:#534127;stop-opacity:1;"
+         offset="0"
+         id="stop4551" />
+      <stop
+         id="stop4557"
+         offset="0.5"
+         style="stop-color:#977748;stop-opacity:1;" />
+      <stop
+         style="stop-color:#d5c2a7;stop-opacity:1;"
+         offset="1"
+         id="stop4553" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient5509">
       <stop
          style="stop-color:#9c9c9c;stop-opacity:1;"
@@ -97,6 +112,95 @@
          in2="result92"
          operator="in" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4549"
+       id="linearGradient4555"
+       x1="240"
+       y1="64"
+       x2="224"
+       y2="64"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4549"
+       id="linearGradient4561"
+       gradientUnits="userSpaceOnUse"
+       x1="240"
+       y1="64"
+       x2="224"
+       y2="64"
+       gradientTransform="translate(-224,-64)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4549"
+       id="linearGradient4565"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-208,-64)"
+       x1="240"
+       y1="64"
+       x2="224"
+       y2="64" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4549"
+       id="linearGradient4569"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-192,-64)"
+       x1="240"
+       y1="64"
+       x2="224"
+       y2="64" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4549"
+       id="linearGradient4573"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-176,-64)"
+       x1="240"
+       y1="64"
+       x2="224"
+       y2="64" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4549"
+       id="linearGradient4577"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-160,-64)"
+       x1="240"
+       y1="64"
+       x2="224"
+       y2="64" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4549"
+       id="linearGradient4581"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-144,-64)"
+       x1="240"
+       y1="64"
+       x2="224"
+       y2="64" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4549"
+       id="linearGradient4585"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-128,-64)"
+       x1="240"
+       y1="64"
+       x2="224"
+       y2="64" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4549"
+       id="linearGradient4589"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-112,-64)"
+       x1="240"
+       y1="64"
+       x2="224"
+       y2="64" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -106,14 +210,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.656854"
-     inkscape:cx="148.91639"
-     inkscape:cy="59.628415"
+     inkscape:cx="117.40667"
+     inkscape:cy="58.017743"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
      inkscape:snap-bbox="true"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      inkscape:snap-grids="true"
      inkscape:window-width="2378"
      inkscape:window-height="1265"
@@ -330,6 +434,70 @@
        y="0"
        transform="translate(0,-64)"
        ry="0" />
+    <rect
+       style="fill:url(#linearGradient4555);fill-opacity:1.0;stroke:none"
+       id="rect4039"
+       width="16"
+       height="128"
+       x="224"
+       y="0"
+       transform="translate(0,-64)" />
+    <rect
+       y="-64"
+       x="0"
+       height="128"
+       width="16"
+       id="rect4559"
+       style="fill:url(#linearGradient4561);fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:url(#linearGradient4565);fill-opacity:1;stroke:none"
+       id="rect4563"
+       width="16"
+       height="128"
+       x="16"
+       y="-64" />
+    <rect
+       y="-64"
+       x="32"
+       height="128"
+       width="16"
+       id="rect4567"
+       style="fill:url(#linearGradient4569);fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:url(#linearGradient4573);fill-opacity:1;stroke:none"
+       id="rect4571"
+       width="16"
+       height="128"
+       x="48"
+       y="-64" />
+    <rect
+       y="-64"
+       x="64"
+       height="128"
+       width="16"
+       id="rect4575"
+       style="fill:url(#linearGradient4577);fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:url(#linearGradient4581);fill-opacity:1;stroke:none"
+       id="rect4579"
+       width="16"
+       height="128"
+       x="80"
+       y="-64" />
+    <rect
+       y="-64"
+       x="96"
+       height="128"
+       width="16"
+       id="rect4583"
+       style="fill:url(#linearGradient4585);fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:url(#linearGradient4589);fill-opacity:1;stroke:none"
+       id="rect4587"
+       width="16"
+       height="128"
+       x="112"
+       y="-64" />
     <g
        id="g5605"
        style="fill:#403320;fill-opacity:1">

@@ -116,10 +116,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient5671"
        id="linearGradient5677"
-       x1="240"
-       y1="64"
-       x2="256"
-       y2="64"
+       x1="256"
+       y1="28"
+       x2="240"
+       y2="28"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-128,-64)" />
     <linearGradient
@@ -128,9 +128,9 @@
        id="linearGradient5685"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-240,-64)"
-       x1="240"
+       x1="256"
        y1="64"
-       x2="256"
+       x2="240"
        y2="64" />
     <linearGradient
        inkscape:collect="always"
@@ -138,9 +138,9 @@
        id="linearGradient5689"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-224,-64)"
-       x1="240"
+       x1="256"
        y1="64"
-       x2="256"
+       x2="240"
        y2="64" />
     <linearGradient
        inkscape:collect="always"
@@ -148,29 +148,29 @@
        id="linearGradient5693"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-208,-64)"
-       x1="240"
-       y1="64"
-       x2="256"
-       y2="64" />
+       x1="256"
+       y1="92"
+       x2="240"
+       y2="92" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5671"
        id="linearGradient5697"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-192,-64)"
-       x1="240"
-       y1="64"
-       x2="256"
-       y2="64" />
+       x1="256"
+       y1="100"
+       x2="240"
+       y2="100" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5671"
        id="linearGradient5701"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-176,-64)"
-       x1="240"
+       x1="256"
        y1="64"
-       x2="256"
+       x2="240"
        y2="64" />
     <linearGradient
        inkscape:collect="always"
@@ -178,20 +178,20 @@
        id="linearGradient5705"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-160,-64)"
-       x1="240"
-       y1="64"
-       x2="256"
-       y2="64" />
+       x1="256"
+       y1="72"
+       x2="240"
+       y2="72" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5671"
        id="linearGradient5709"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-144,-64)"
-       x1="240"
-       y1="64"
-       x2="256"
-       y2="64" />
+       x1="256"
+       y1="40"
+       x2="240"
+       y2="40" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -200,9 +200,9 @@
      borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.9999998"
-     inkscape:cx="186.00351"
-     inkscape:cy="48.277291"
+     inkscape:zoom="5.656854"
+     inkscape:cx="127.49706"
+     inkscape:cy="66.653106"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:document-units="px"
