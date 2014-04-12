@@ -14,7 +14,7 @@
    id="svg2985"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="block.svg"
+   sodipodi:docname="log_birch_top.svg"
    inkscape:export-filename="/Users/ianw/drawing.png"
    inkscape:export-xdpi="180"
    inkscape:export-ydpi="180">
@@ -33,6 +33,28 @@
          offset="1"
          style="stop-color:#000000;stop-opacity:0" />
     </linearGradient>
+    <linearGradient
+       id="linearGradient4011-9">
+      <stop
+         style="stop-color:#816647;stop-opacity:1"
+         offset="0"
+         id="stop4013-7" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1"
+         id="stop4015-1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4011-3">
+      <stop
+         style="stop-color:#816647;stop-opacity:1"
+         offset="0"
+         id="stop4013-2" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1"
+         id="stop4015-8" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -41,9 +63,9 @@
      borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.656854"
-     inkscape:cx="-3.2549413"
-     inkscape:cy="52.675222"
+     inkscape:zoom="2.828427"
+     inkscape:cx="-2.9601313"
+     inkscape:cy="-20.575382"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:document-units="px"
@@ -104,5 +126,79 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     transform="translate(0,64)" />
+     transform="translate(0,64)">
+    <g
+       inkscape:label="Layer 1"
+       id="layer1-6" />
+    <rect
+       style="fill:#eceae8;stroke:none;fill-opacity:1"
+       id="rect8510"
+       width="128"
+       height="128"
+       x="0"
+       y="0"
+       transform="translate(0,-64)"
+       ry="0" />
+    <rect
+       style="fill:#cfc277;fill-opacity:1;stroke:none"
+       id="rect8512"
+       width="112"
+       height="112"
+       x="8"
+       y="8"
+       transform="translate(0,-64)" />
+    <g
+       id="g8588">
+      <path
+         style="fill:#565656;fill-opacity:1;stroke:none"
+         d="m 112,56 -44,0 c 0,0 12,8 16,8 4,0 28,-8 28,-8 z"
+         id="path5386"
+         inkscape:connector-curvature="0" />
+    </g>
+    <rect
+       style="fill:none;stroke:#aa9960;stroke-width:8;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect8506"
+       width="80"
+       height="80"
+       x="24"
+       y="24"
+       transform="translate(0,-64)"
+       ry="24" />
+    <rect
+       style="fill:none;stroke:#aa9960;stroke-width:8;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect8508"
+       width="48"
+       height="48"
+       x="40"
+       y="40"
+       transform="translate(0,-64)"
+       ry="24" />
+    <g
+       id="g8591"
+       transform="matrix(0,1,-1,0,64,-84)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8593"
+         d="m 112,56 -44,0 c 0,0 12,8 16,8 4,0 28,-8 28,-8 z"
+         style="fill:#565656;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       transform="matrix(0,-1,1,0,64,60)"
+       id="g8595">
+      <path
+         style="fill:#565656;fill-opacity:1;stroke:none"
+         d="m 112,56 -44,0 c 0,0 12,8 16,8 4,0 28,-8 28,-8 z"
+         id="path8597"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g8599"
+       transform="matrix(-1,0,0,-1,152,0)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8601"
+         d="m 112,56 -44,0 c 0,0 12,8 16,8 4,0 28,-8 28,-8 z"
+         style="fill:#565656;fill-opacity:1;stroke:none" />
+    </g>
+  </g>
 </svg>
