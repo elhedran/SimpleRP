@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   id="svg2985"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="sapling_roofed_oak.svg"
+   inkscape:export-filename="/Users/ianw/drawing.png"
+   inkscape:export-xdpi="180"
+   inkscape:export-ydpi="180">
+  <title
+     id="title3119">Template</title>
+  <defs
+     id="defs2987" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.828427"
+     inkscape:cx="77.639761"
+     inkscape:cy="38.974189"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     inkscape:snap-bbox="false"
+     inkscape:snap-nodes="true"
+     inkscape:snap-grids="true"
+     inkscape:window-width="2256"
+     inkscape:window-height="1135"
+     inkscape:window-x="64"
+     inkscape:window-y="80"
+     inkscape:window-maximized="0"
+     inkscape:showpageshadow="false"
+     borderlayer="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2993"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="16px"
+       spacingy="16px"
+       empcolor="#d60053"
+       empopacity="0.29803922" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid3043"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       color="#ff00f8"
+       opacity="0.1254902"
+       dotted="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2990">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Template</dc:title>
+        <cc:license
+           rdf:resource="https://www.gnu.org/copyleft/gpl.html" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Ian Walters</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>SimpleRP</dc:source>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(0,64)">
+    <image
+       y="95.5"
+       x="737.3385"
+       id="image3443-9"
+       xlink:href="file:///Users/ianw/play/SimpleRP/src/default/assets/minecraft/textures/blocks/sapling_oak.png"
+       height="32"
+       width="32" />
+    <image
+       y="143.5"
+       x="737.3385"
+       id="image3521-4"
+       xlink:href="file:///Users/ianw/play/SimpleRP/src/default/assets/minecraft/textures/blocks/sapling_roofed_oak.png"
+       height="32"
+       width="32" />
+    <image
+       y="191.5"
+       x="737.3385"
+       id="image3599-5"
+       xlink:href="file:///Users/ianw/play/SimpleRP/src/default/assets/minecraft/textures/blocks/sapling_spruce.png"
+       height="32"
+       width="32" />
+    <path
+       style="fill:#4c3214;fill-opacity:1;stroke:#4c3214;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 79,63 c 0,0 -1.79062,-6.89802 -3,-15 -1.20938,-8.10198 0,-40 2,-48 2.025975,-8.1039005 15.13054,-11.121573 22,-12 6.86946,-0.878427 16,4 16,4 l 4,-8 -16,-4 12,-12 -8,-8 c 0,0 -10.52196,12.05165 -16,16 -5.47804,3.94835 -16,8 -16,8 -1.357738,-16.335914 1.13822,-23.658276 4,-28 -8,0 -12,-4 -12,-4 -4,12 -8,16 -7,27 0,0 -16.3526,-10.769154 -20,-16 -3.6474,-5.230846 -4,-12 -4,-12 l -8,4 0,12 -12,4 4,12 c 0,0 9.33453,-9.081656 16,-8 6.66547,1.081656 7,13 11,17 4,4 8,1.6318253 8,16 0,12 -0.902338,35.678811 -3,43 -2.233291,7.794557 -4,12 -4,12 z"
+       id="path4457"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csszccccczcccczccccczzsscc" />
+    <path
+       style="fill:#408f2f;fill-opacity:1;stroke:#105210;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 44,-32 c 7.185511,-4.551661 29.188099,-1.108893 31.095993,2.027638 1.907888,3.136522 14.594042,-0.554448 14.371021,-9.103323 -0.223035,-8.548878 -8.697036,-18.388786 -22.448649,-20.54053 -11.001301,-1.721385 -21.891076,0.831662 -28.96507,9.657763 C 34.337856,-45.322759 36.814498,-27.448344 44,-32 z"
+       id="path6554"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zssssz" />
+    <path
+       sodipodi:nodetypes="zssssz"
+       inkscape:connector-curvature="0"
+       id="path4583"
+       d="m 29.64995,-13.36795 c 0.33634,-8.49918 15.66943,-24.65043 19.33454,-24.43865 3.6651,0.21178 7.83471,-12.32521 0.67268,-16.99836 C 42.49513,-59.4781 29.58319,-58.09452 20,-48 c -7.66655,8.07563 -11.75208,18.48782 -8.5074,29.32357 1.70419,5.69121 17.82101,13.80765 18.15735,5.30848 z"
+       style="fill:#408f2f;fill-opacity:1;stroke:#105210;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       sodipodi:nodetypes="zssssz"
+       inkscape:connector-curvature="0"
+       id="path6556"
+       d="m 104,-4 c 3.48908,-2.8219262 14.17293,-0.6874884 15.09935,1.2570894 0.92642,1.9445722 7.08646,-0.3437451 6.97817,-5.643853 -0.10831,-5.3001094 -4.22304,-11.4006294 -10.90044,-12.7346614 -5.34193,-1.067219 -10.6297,0.515612 -14.06463,5.987593 C 99.308332,-12.259807 100.51092,-1.1780769 104,-4 z"
+       style="fill:#408f2f;fill-opacity:1;stroke:#105210;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:transform-center-x="21.375091"
+       inkscape:transform-center-y="-14.056451" />
+    <path
+       inkscape:transform-center-y="-4.3202236"
+       inkscape:transform-center-x="7.4428597"
+       style="fill:#408f2f;fill-opacity:1;stroke:#105210;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 75.847454,-29.640778 c 7.960873,-2.995612 28.803876,4.848855 30.034196,8.307788 1.23031,3.458922 14.40193,2.424425 15.92174,-5.991226 C 123.32319,-35.739873 117.02686,-47.097195 104,-52 c -10.421513,-3.922236 -21.602912,-3.63665 -30.323685,3.566792 -4.58037,3.783431 -5.789724,21.788039 2.171139,18.79243 z"
+       id="path6558"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zssssz" />
+    <path
+       inkscape:transform-center-y="-1.9459513"
+       inkscape:transform-center-x="1.4920169"
+       style="fill:#408f2f;fill-opacity:1;stroke:#105210;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 46.812036,-2.6457449 c -1.087598,-4.353627 5.352743,-13.1412601 7.50663,-13.1613501 2.153883,-0.02009 2.676369,-6.570626 -2.175193,-8.707265 C 47.291903,-26.650982 40.025218,-25.492261 36,-20 c -3.220173,4.393821 -4.014562,9.855946 -0.50118,15.2778891 1.845316,2.847748 12.400811,6.429993 11.313216,2.076366 z"
+       id="path6560"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zssssz" />
+  </g>
+</svg>
