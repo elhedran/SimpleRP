@@ -39,100 +39,6 @@
          id="stop4005" />
     </linearGradient>
     <linearGradient
-       id="linearGradient5509">
-      <stop
-         style="stop-color:#9c9c9c;stop-opacity:1;"
-         offset="0"
-         id="stop5511" />
-      <stop
-         style="stop-color:#706a60;stop-opacity:0;"
-         offset="1"
-         id="stop5513" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4011">
-      <stop
-         id="stop4013"
-         offset="0"
-         style="stop-color:#4a4238;stop-opacity:1;" />
-      <stop
-         id="stop4015"
-         offset="1"
-         style="stop-color:#000000;stop-opacity:0" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5509"
-       id="linearGradient5515"
-       x1="-128"
-       y1="128"
-       x2="-128"
-       y2="0"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,0.75,176,-44)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4011"
-       id="linearGradient5523"
-       x1="-60"
-       y1="0"
-       x2="-60"
-       y2="128"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,0.53125,160,-48)" />
-    <filter
-       id="filter5525"
-       inkscape:label="Feather"
-       inkscape:menu="ABCs"
-       inkscape:menu-tooltip="Blurred mask on the edge without altering the contents"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur5527"
-         result="result6"
-         stdDeviation="1" />
-      <feComposite
-         id="feComposite5529"
-         in2="result6"
-         operator="atop"
-         in="SourceGraphic"
-         result="result91" />
-      <feComposite
-         id="feComposite5531"
-         in2="result91"
-         operator="in"
-         result="result92" />
-      <feComposite
-         id="feComposite5533"
-         in2="result92"
-         operator="in" />
-    </filter>
-    <filter
-       id="filter5535"
-       inkscape:label="Feather"
-       inkscape:menu="ABCs"
-       inkscape:menu-tooltip="Blurred mask on the edge without altering the contents"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur5537"
-         result="result6"
-         stdDeviation="1" />
-      <feComposite
-         id="feComposite5539"
-         in2="result6"
-         operator="atop"
-         in="SourceGraphic"
-         result="result91" />
-      <feComposite
-         id="feComposite5541"
-         in2="result91"
-         operator="in"
-         result="result92" />
-      <feComposite
-         id="feComposite5543"
-         in2="result92"
-         operator="in" />
-    </filter>
-    <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4001"
        id="linearGradient4007"
@@ -142,36 +48,6 @@
        y2="-20.067673"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.5057991,0,0,1.0028746,-1.328555,0.12535932)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4001"
-       id="linearGradient4013"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-160.05843,-0.05844498)"
-       x1="224.05844"
-       y1="-0.125"
-       x2="255.69156"
-       y2="-0.125" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4001"
-       id="linearGradient4017"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-191.69155,-0.05844498)"
-       x1="224.05844"
-       y1="-0.125"
-       x2="255.69156"
-       y2="-0.125" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4001"
-       id="linearGradient4021"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-223.69155,-0.05844498)"
-       x1="224.05844"
-       y1="-0.125"
-       x2="255.69156"
-       y2="-0.125" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4001"
