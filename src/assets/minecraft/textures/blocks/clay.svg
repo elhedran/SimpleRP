@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   id="svg2985"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="clay.svg"
+   inkscape:export-filename="/Users/ianw/drawing.png"
+   inkscape:export-xdpi="180"
+   inkscape:export-ydpi="180">
+  <title
+     id="title3119">Template</title>
+  <defs
+     id="defs2987">
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Blurred mask on the edge without altering the contents"
+       inkscape:menu="ABCs"
+       inkscape:label="Feather"
+       id="filter3030">
+      <feGaussianBlur
+         stdDeviation="3"
+         result="result6"
+         id="feGaussianBlur3032" />
+      <feComposite
+         result="result91"
+         in="SourceGraphic"
+         operator="atop"
+         in2="result6"
+         id="feComposite3034" />
+      <feComposite
+         result="result92"
+         operator="in"
+         in2="result91"
+         id="feComposite3036" />
+      <feComposite
+         operator="in"
+         in2="result92"
+         id="feComposite3038" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.9999999"
+     inkscape:cx="-116.47666"
+     inkscape:cy="84.564056"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-grids="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1040"
+     inkscape:window-x="-2"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="false"
+     borderlayer="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2993"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="16px"
+       spacingy="16px"
+       empcolor="#d60053"
+       empopacity="0.29803922" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid3043"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       color="#ff00f8"
+       opacity="0.1254902"
+       dotted="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2990">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Template</dc:title>
+        <cc:license
+           rdf:resource="https://www.gnu.org/copyleft/gpl.html" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Ian Walters</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>SimpleRP</dc:source>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(0,64)">
+    <rect
+       style="fill:#aea0cc;fill-opacity:1"
+       id="rect3047"
+       width="128"
+       height="128"
+       x="0"
+       y="-64" />
+    <path
+       style="fill:#c6bbe8;fill-opacity:1;stroke:none;filter:url(#filter3030)"
+       d="m -446.4,-123.2 c 16,0 48,-16 64,-16 16,0 48,16 64,16 16,0 48,-16 64,-16 16,0 48,16 64,16 16,0 48,-16 64,-16 16,0 48,16 64,16 l 0,32 c -16,0 -48,-16 -64,-16 -16,0 -48,16 -64,16 -16,0 -48,-16 -64,-16 -16,0 -48,16 -64,16 -16,0 -48,-16 -64,-16 -16,0 -48,16 -64,16 l 0,-32"
+       id="path3022"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssssccssssscc"
+       transform="matrix(0.5,0,0,0.5,216.8,-9.2)" />
+    <path
+       sodipodi:nodetypes="csssssccssssscc"
+       inkscape:connector-curvature="0"
+       id="path3200"
+       d="m -446.4,-59.2 c 16,0 48,-16 64,-16 16,0 48,16 64,16 16,0 48,-16 64,-16 16,0 48,16 64,16 16,0 48,-16 64,-16 16,0 48,16 64,16 l 0,32 c -16,0 -48,-16 -64,-16 -16,0 -48,16 -64,16 -16,0 -48,-16 -64,-16 -16,0 -48,16 -64,16 -16,0 -48,-16 -64,-16 -16,0 -48,16 -64,16 l 0,-32"
+       style="fill:#c6bbe8;fill-opacity:1;stroke:none;filter:url(#filter3030)"
+       transform="matrix(0.5,0,0,0.5,200.8,-9.2)" />
+    <path
+       style="fill:#c6bbe8;fill-opacity:1;stroke:none;filter:url(#filter3030)"
+       d="m -446.4,4.799996 c 16,0 48,-16 64,-16 16,0 48,16 64,16 16,0 48,-16 64,-16 16,0 48,16 64,16 16,0 48,-16 64,-16 16,0 48,16 64,16 l 0,32 c -16,0 -48,-16 -64,-16 -16,0 -48,16 -64,16 -16,0 -48,-16 -64,-16 -16,0 -48,16 -64,16 -16,0 -48,-16 -64,-16 -16,0 -48,16 -64,16 l 0,-32"
+       id="path3202"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssssccssssscc"
+       transform="matrix(0.5,0,0,0.5,216.8,-9.199998)" />
+    <path
+       transform="matrix(0.5,0,0,0.5,200.8,86.8)"
+       sodipodi:nodetypes="csssssccssssscc"
+       inkscape:connector-curvature="0"
+       id="path4118"
+       d="m -446.4,-123.2 c 16,0 48,-16 64,-16 16,0 48,16 64,16 16,0 48,-16 64,-16 16,0 48,16 64,16 16,0 48,-16 64,-16 16,0 48,16 64,16 l 0,32 c -16,0 -48,-16 -64,-16 -16,0 -48,16 -64,16 -16,0 -48,-16 -64,-16 -16,0 -48,16 -64,16 -16,0 -48,-16 -64,-16 -16,0 -48,16 -64,16 l 0,-32"
+       style="fill:#c6bbe8;fill-opacity:1;stroke:none;filter:url(#filter3030)" />
+    <path
+       style="fill:#c6bbe8;fill-opacity:1;stroke:none;filter:url(#filter3030)"
+       d="m -446.4,-123.2 c 16,0 48,-16 64,-16 16,0 48,16 64,16 16,0 48,-16 64,-16 16,0 48,16 64,16 16,0 48,-16 64,-16 16,0 48,16 64,16 l 0,32 c -16,0 -48,-16 -64,-16 -16,0 -48,16 -64,16 -16,0 -48,-16 -64,-16 -16,0 -48,16 -64,16 -16,0 -48,-16 -64,-16 -16,0 -48,16 -64,16 l 0,-32"
+       id="path4120"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssssccssssscc"
+       transform="matrix(0.5,0,0,0.5,216.8,118.8)" />
+  </g>
+</svg>
