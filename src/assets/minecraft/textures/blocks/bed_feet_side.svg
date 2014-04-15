@@ -57,7 +57,8 @@
        x1="96"
        y1="92"
        x2="92"
-       y2="56" />
+       y2="56"
+       gradientTransform="matrix(1,0,0,2.3333334,0,-112)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4918"
@@ -85,14 +86,14 @@
      borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.828427"
-     inkscape:cx="46.480066"
-     inkscape:cy="48.476504"
+     inkscape:zoom="7.9999996"
+     inkscape:cx="58.803302"
+     inkscape:cy="39.080618"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
-     inkscape:snap-bbox="false"
+     inkscape:snap-bbox="true"
      inkscape:snap-nodes="true"
      inkscape:snap-grids="true"
      inkscape:window-width="1475"
@@ -101,7 +102,8 @@
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:showpageshadow="false"
-     borderlayer="true">
+     borderlayer="true"
+     inkscape:bbox-nodes="false">
     <inkscape:grid
        type="xygrid"
        id="grid2993"
@@ -161,7 +163,7 @@
          y="72" />
       <path
          style="fill:url(#linearGradient4810);fill-opacity:1;stroke:none"
-         d="m 0,84 90,0 c 1.5,0 4,-2 4,-4 l 0,-8 -94,0 z"
+         d="m 0,84 90,0 c 1.5,0 4,-4.666666 4,-9.333334 L 94,56 0,56 z"
          id="path4808"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccc" />

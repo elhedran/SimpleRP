@@ -43,7 +43,7 @@
        y1="88"
        x2="110"
        y2="56"
-       gradientTransform="matrix(0.5,0,0,1,64,-64)" />
+       gradientTransform="matrix(0.5,0,0,2.3333334,64,-176)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4658"
@@ -72,9 +72,9 @@
      borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.828427"
-     inkscape:cx="10.378148"
-     inkscape:cy="19.943363"
+     inkscape:zoom="3.9999998"
+     inkscape:cx="-6.7596747"
+     inkscape:cy="51.404127"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:document-units="px"
@@ -157,12 +157,12 @@
        style="fill:#6d0000;fill-opacity:1;stroke:none"
        id="rect4898"
        width="128"
-       height="16"
+       height="32"
        x="0"
-       y="8" />
+       y="-8" />
     <path
        style="fill:url(#linearGradient4915);fill-opacity:1;stroke:none"
-       d="m 0,20 122,0 c 1.5,0 4,-2 4,-4 L 126,8 0,8 z"
+       d="m 0,20 122,0 c 1.5,0 4,-4.666666 4,-9.333334 L 126,-8 0,-8 z"
        id="path4900"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
