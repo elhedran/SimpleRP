@@ -22,19 +22,7 @@
   <title
      id="title3119">Template</title>
   <defs
-     id="defs2987">
-    <linearGradient
-       id="linearGradient4011">
-      <stop
-         id="stop4013"
-         offset="0"
-         style="stop-color:#816647;stop-opacity:1" />
-      <stop
-         id="stop4015"
-         offset="1"
-         style="stop-color:#000000;stop-opacity:0" />
-    </linearGradient>
-  </defs>
+     id="defs2987" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
