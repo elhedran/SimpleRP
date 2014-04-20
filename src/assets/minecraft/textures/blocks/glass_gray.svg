@@ -63,9 +63,9 @@
      borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="30.121177"
-     inkscape:cy="54.357347"
+     inkscape:zoom="8"
+     inkscape:cx="21.803829"
+     inkscape:cy="83.350971"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:document-units="px"
@@ -158,5 +158,39 @@
        xlink:href="file:///Users/ianw/play/SimpleRP/src/default/assets/minecraft/textures/blocks/glass_white.png"
        height="16"
        width="16" />
+    <g
+       inkscape:label="Layer 1"
+       id="layer1-0">
+      <path
+         sodipodi:nodetypes="csccccc"
+         inkscape:connector-curvature="0"
+         id="path4247"
+         d="m 2,1 c 0,0 0,-47 0,-51 0,-8 16,-8 16,0 l 0,4 -4,0 c -8,0 -8,-16 0,-16 4,0 53,0 53,0"
+         style="fill:none;stroke:#333333;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <use
+         height="128"
+         width="128"
+         transform="matrix(-1,0,0,1,128,0)"
+         id="use4757"
+         xlink:href="#path4247"
+         y="0"
+         x="0" />
+      <use
+         height="128"
+         width="128"
+         transform="scale(1,-1)"
+         id="use4759"
+         xlink:href="#path4247"
+         y="0"
+         x="0" />
+      <use
+         height="128"
+         width="128"
+         transform="matrix(-1,0,0,-1,128,0)"
+         id="use4761"
+         xlink:href="#path4247"
+         y="0"
+         x="0" />
+    </g>
   </g>
 </svg>

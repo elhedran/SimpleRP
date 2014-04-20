@@ -15,7 +15,7 @@
    id="svg2985"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="glass_light_blue.svg"
+   sodipodi:docname="glass_cyan.svg"
    inkscape:export-filename="/Users/ianw/drawing.png"
    inkscape:export-xdpi="180"
    inkscape:export-ydpi="180">
@@ -63,9 +63,9 @@
      borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="30.121177"
-     inkscape:cy="56.732347"
+     inkscape:zoom="16"
+     inkscape:cx="22.519648"
+     inkscape:cy="94.283316"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:document-units="px"
@@ -151,118 +151,39 @@
          style="fill:#4b8098;fill-opacity:0.50980395;stroke:none"
          sodipodi:nodetypes="cccccccccc" />
     </g>
-    <image
-       y="-80"
-       x="-128"
-       id="image4171"
-       xlink:href="file:///Users/ianw/play/SimpleRP/src/default/assets/minecraft/textures/blocks/glass_black.png"
-       height="16"
-       width="16" />
-    <image
-       y="-64"
-       x="-128"
-       id="image4249"
-       xlink:href="file:///Users/ianw/play/SimpleRP/src/default/assets/minecraft/textures/blocks/glass_blue.png"
-       height="16"
-       width="16" />
-    <image
-       y="-32"
-       x="-128"
-       id="image4327"
-       xlink:href="file:///Users/ianw/play/SimpleRP/src/default/assets/minecraft/textures/blocks/glass_brown.png"
-       height="16"
-       width="16" />
-    <image
-       y="-48"
-       x="-128"
-       id="image4421"
-       xlink:href="file:///Users/ianw/play/SimpleRP/src/default/assets/minecraft/textures/blocks/glass_cyan.png"
-       height="16"
-       width="16" />
-    <image
-       y="-80"
-       x="-112"
-       id="image4499"
-       xlink:href="file:///Users/ianw/play/SimpleRP/src/default/assets/minecraft/textures/blocks/glass_gray.png"
-       height="16"
-       width="16" />
-    <image
-       y="-16"
-       x="-128"
-       id="image4609"
-       xlink:href="file:///Users/ianw/play/SimpleRP/src/default/assets/minecraft/textures/blocks/glass_green.png"
-       height="16"
-       width="16" />
-    <image
-       y="-64"
-       x="-112"
-       id="image4735"
-       xlink:href="file:///Users/ianw/play/SimpleRP/src/default/assets/minecraft/textures/blocks/glass_light_blue.png"
-       height="16"
-       width="16"
-       style="fill:#6798d7;fill-opacity:0.40000001" />
-    <image
-       y="-16"
-       x="-112"
-       id="image4813"
-       xlink:href="file:///Users/ianw/play/SimpleRP/src/default/assets/minecraft/textures/blocks/glass_lime.png"
-       height="16"
-       width="16" />
-    <image
-       y="0"
-       x="-128"
-       id="image5083"
-       xlink:href="file:///Users/ianw/play/SimpleRP/src/default/assets/minecraft/textures/blocks/glass_magenta.png"
-       height="16"
-       width="16" />
-    <image
-       y="16"
-       x="-128"
-       id="image5321"
-       xlink:href="file:///Users/ianw/play/SimpleRP/src/default/assets/minecraft/textures/blocks/glass_orange.png"
-       height="16"
-       width="16" />
-    <image
-       y="32"
-       x="-112"
-       id="image5559"
-       xlink:href="file:///Users/ianw/play/SimpleRP/src/default/assets/minecraft/textures/blocks/glass_pink.png"
-       height="16"
-       width="16" />
-    <image
-       y="48"
-       x="-128"
-       id="image6069"
-       xlink:href="file:///Users/ianw/play/SimpleRP/src/default/assets/minecraft/textures/blocks/glass_purple.png"
-       height="16"
-       width="16" />
-    <image
-       y="32"
-       x="-128"
-       id="image6595"
-       xlink:href="file:///Users/ianw/play/SimpleRP/src/default/assets/minecraft/textures/blocks/glass_red.png"
-       height="16"
-       width="16" />
-    <image
-       y="-80"
-       x="-96"
-       id="image6737"
-       xlink:href="file:///Users/ianw/play/SimpleRP/src/default/assets/minecraft/textures/blocks/glass_silver.png"
-       height="16"
-       width="16" />
-    <image
-       y="-80"
-       x="-80"
-       id="image6911"
-       xlink:href="file:///Users/ianw/play/SimpleRP/src/default/assets/minecraft/textures/blocks/glass_white.png"
-       height="16"
-       width="16" />
-    <image
-       y="64"
-       x="-128"
-       id="image7405"
-       xlink:href="file:///Users/ianw/play/SimpleRP/src/default/assets/minecraft/textures/blocks/glass_yellow.png"
-       height="16"
-       width="16" />
+    <g
+       inkscape:label="Layer 1"
+       id="layer1-8">
+      <path
+         sodipodi:nodetypes="csccccc"
+         inkscape:connector-curvature="0"
+         id="path4247"
+         d="m 2,1 c 0,0 0,-47 0,-51 0,-8 16,-8 16,0 l 0,4 -4,0 c -8,0 -8,-16 0,-16 4,0 53,0 53,0"
+         style="fill:none;stroke:#333333;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <use
+         height="128"
+         width="128"
+         transform="matrix(-1,0,0,1,128,0)"
+         id="use4757"
+         xlink:href="#path4247"
+         y="0"
+         x="0" />
+      <use
+         height="128"
+         width="128"
+         transform="scale(1,-1)"
+         id="use4759"
+         xlink:href="#path4247"
+         y="0"
+         x="0" />
+      <use
+         height="128"
+         width="128"
+         transform="matrix(-1,0,0,-1,128,0)"
+         id="use4761"
+         xlink:href="#path4247"
+         y="0"
+         x="0" />
+    </g>
   </g>
 </svg>
