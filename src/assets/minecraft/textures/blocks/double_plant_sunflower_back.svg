@@ -15,7 +15,7 @@
    id="svg2985"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="double_plant_sunflower_front.svg"
+   sodipodi:docname="double_plant_sunflower_back.svg"
    inkscape:export-filename="/Users/ianw/drawing.png"
    inkscape:export-xdpi="180"
    inkscape:export-ydpi="180">
@@ -33,85 +33,6 @@
          style="stop-color:#c06e5d;stop-opacity:1;"
          offset="1"
          id="stop16983" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4011">
-      <stop
-         id="stop4013"
-         offset="0"
-         style="stop-color:#816647;stop-opacity:1" />
-      <stop
-         id="stop4015"
-         offset="1"
-         style="stop-color:#000000;stop-opacity:0" />
-    </linearGradient>
-    <linearGradient
-       y2="16"
-       x2="90.182915"
-       y1="40"
-       x1="37.817081"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3950"
-       xlink:href="#linearGradient3938"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="12.501157"
-       x2="76"
-       y1="56.499306"
-       x1="82"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3948"
-       xlink:href="#linearGradient3938"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="16"
-       x2="36"
-       y1="60"
-       x1="84"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3946"
-       xlink:href="#linearGradient3938"
-       inkscape:collect="always" />
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="-8"
-       x2="84"
-       y1="0"
-       x1="92"
-       id="linearGradient3944"
-       xlink:href="#linearGradient3938"
-       inkscape:collect="always" />
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:menu-tooltip="Small-scale roughening to edges and content"
-       inkscape:menu="ABCs"
-       inkscape:label="Roughen"
-       id="filter3141">
-      <feTurbulence
-         result="result91"
-         baseFrequency="0.04"
-         type="turbulence"
-         seed="2"
-         numOctaves="3"
-         id="feTurbulence3143" />
-      <feDisplacementMap
-         in="SourceGraphic"
-         xChannelSelector="R"
-         yChannelSelector="G"
-         scale="6.6"
-         in2="result91"
-         id="feDisplacementMap3145" />
-    </filter>
-    <linearGradient
-       id="linearGradient3938">
-      <stop
-         id="stop3940"
-         offset="0"
-         style="stop-color:#cd6fed;stop-opacity:1;" />
-      <stop
-         id="stop3942"
-         offset="1"
-         style="stop-color:#e2b1f0;stop-opacity:1;" />
     </linearGradient>
     <radialGradient
        inkscape:collect="always"

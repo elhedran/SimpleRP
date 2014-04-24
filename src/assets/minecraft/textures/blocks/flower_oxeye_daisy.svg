@@ -22,49 +22,7 @@
   <title
      id="title3119">Template</title>
   <defs
-     id="defs2987">
-    <linearGradient
-       id="linearGradient3938">
-      <stop
-         style="stop-color:#cd6fed;stop-opacity:1;"
-         offset="0"
-         id="stop3940" />
-      <stop
-         style="stop-color:#e2b1f0;stop-opacity:1;"
-         offset="1"
-         id="stop3942" />
-    </linearGradient>
-    <filter
-       id="filter3141"
-       inkscape:label="Roughen"
-       inkscape:menu="ABCs"
-       inkscape:menu-tooltip="Small-scale roughening to edges and content"
-       color-interpolation-filters="sRGB">
-      <feTurbulence
-         id="feTurbulence3143"
-         numOctaves="3"
-         seed="2"
-         type="turbulence"
-         baseFrequency="0.04"
-         result="result91" />
-      <feDisplacementMap
-         id="feDisplacementMap3145"
-         in2="result91"
-         scale="6.6"
-         yChannelSelector="G"
-         xChannelSelector="R"
-         in="SourceGraphic" />
-    </filter>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3938"
-       id="linearGradient3944"
-       x1="92"
-       y1="0"
-       x2="84"
-       y2="-8"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+     id="defs2987" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
