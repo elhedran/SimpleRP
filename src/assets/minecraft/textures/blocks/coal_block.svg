@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   id="svg2985"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="coal_block.svg"
+   inkscape:export-filename="/Users/ianw/drawing.png"
+   inkscape:export-xdpi="180"
+   inkscape:export-ydpi="180">
+  <title
+     id="title3119">Template</title>
+  <defs
+     id="defs2987">
+    <linearGradient
+       id="linearGradient4011">
+      <stop
+         id="stop4013"
+         offset="0"
+         style="stop-color:#816647;stop-opacity:1" />
+      <stop
+         id="stop4015"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient
+       y2="-52"
+       x2="3"
+       y1="-52"
+       x1="-27"
+       gradientTransform="translate(115,80)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3410"
+       xlink:href="#linearGradient3970"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-52"
+       x2="3"
+       y1="-52"
+       x1="-37"
+       gradientTransform="translate(106,56)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3406"
+       xlink:href="#linearGradient3970"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-44"
+       x2="9"
+       y1="-44"
+       x1="-33"
+       gradientTransform="translate(78,68)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3402"
+       xlink:href="#linearGradient3970"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-44"
+       x2="3"
+       y1="-44"
+       x1="-34"
+       gradientTransform="translate(41,68)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3398"
+       xlink:href="#linearGradient3970"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-44"
+       x2="11"
+       y1="-44"
+       x1="-28"
+       gradientTransform="translate(105,16)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3320"
+       xlink:href="#linearGradient3970"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-44"
+       x2="24"
+       y1="-44"
+       x1="-28"
+       gradientTransform="translate(44,20)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3316"
+       xlink:href="#linearGradient3970"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient3970">
+      <stop
+         id="stop3972"
+         offset="0"
+         style="stop-color:#2d2d2d;stop-opacity:1;" />
+      <stop
+         id="stop3974"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0.43846154;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient15407"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,24)"
+       x1="-16"
+       y1="-28"
+       x2="24"
+       y2="-28" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient15409"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,1,-1,0,40,-64)"
+       x1="0"
+       y1="4"
+       x2="0"
+       y2="-52" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient15411"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,1,-1,0,108,-64)"
+       x1="0"
+       y1="4"
+       x2="0"
+       y2="-44" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient15414"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(115,80)"
+       x1="-27"
+       y1="-52"
+       x2="3"
+       y2="-52" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient15417"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(106,56)"
+       x1="-37"
+       y1="-52"
+       x2="3"
+       y2="-52" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient15420"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(78,68)"
+       x1="-33"
+       y1="-44"
+       x2="9"
+       y2="-44" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient15423"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(41,68)"
+       x1="-34"
+       y1="-44"
+       x2="3"
+       y2="-44" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient15426"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(105,16)"
+       x1="-28"
+       y1="-44"
+       x2="11"
+       y2="-44" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient15429"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(44,20)"
+       x1="-28"
+       y1="-44"
+       x2="24"
+       y2="-44" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient15435"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,1,-1,0,108,-64)"
+       x1="0"
+       y1="4"
+       x2="0"
+       y2="-44" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient15439"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,1,-1,0,40,-64)"
+       x1="0"
+       y1="4"
+       x2="0"
+       y2="-52" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient15444"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,24)"
+       x1="-16"
+       y1="-28"
+       x2="24"
+       y2="-28" />
+    <filter
+       id="filter15447"
+       inkscape:label="Simple blur"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Simple Gaussian blur, same as the blur slider in Fill and Stroke dialog"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur15449"
+         stdDeviation="3" />
+    </filter>
+    <filter
+       id="filter15451"
+       inkscape:label="Simple blur"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Simple Gaussian blur, same as the blur slider in Fill and Stroke dialog"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur15453"
+         stdDeviation="3" />
+    </filter>
+    <filter
+       id="filter15455"
+       inkscape:label="Simple blur"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Simple Gaussian blur, same as the blur slider in Fill and Stroke dialog"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur15457"
+         stdDeviation="3" />
+    </filter>
+    <filter
+       id="filter15459"
+       inkscape:label="Simple blur"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Simple Gaussian blur, same as the blur slider in Fill and Stroke dialog"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur15461"
+         stdDeviation="3" />
+    </filter>
+    <filter
+       id="filter15463"
+       inkscape:label="Simple blur"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Simple Gaussian blur, same as the blur slider in Fill and Stroke dialog"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur15465"
+         stdDeviation="3" />
+    </filter>
+    <filter
+       id="filter15467"
+       inkscape:label="Simple blur"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Simple Gaussian blur, same as the blur slider in Fill and Stroke dialog"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur15469"
+         stdDeviation="3" />
+    </filter>
+    <filter
+       id="filter15471"
+       inkscape:label="Simple blur"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Simple Gaussian blur, same as the blur slider in Fill and Stroke dialog"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur15473"
+         stdDeviation="3" />
+    </filter>
+    <filter
+       id="filter15475"
+       inkscape:label="Simple blur"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Simple Gaussian blur, same as the blur slider in Fill and Stroke dialog"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur15477"
+         stdDeviation="3" />
+    </filter>
+    <filter
+       id="filter15479"
+       inkscape:label="Simple blur"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Simple Gaussian blur, same as the blur slider in Fill and Stroke dialog"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur15481"
+         stdDeviation="3" />
+    </filter>
+    <filter
+       id="filter15483"
+       inkscape:label="Simple blur"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Simple Gaussian blur, same as the blur slider in Fill and Stroke dialog"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur15485"
+         stdDeviation="3" />
+    </filter>
+    <filter
+       id="filter15487"
+       inkscape:label="Simple blur"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Simple Gaussian blur, same as the blur slider in Fill and Stroke dialog"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur15489"
+         stdDeviation="3" />
+    </filter>
+    <filter
+       id="filter15491"
+       inkscape:label="Simple blur"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Simple Gaussian blur, same as the blur slider in Fill and Stroke dialog"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur15493"
+         stdDeviation="3" />
+    </filter>
+    <filter
+       id="filter15495"
+       inkscape:label="Simple blur"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Simple Gaussian blur, same as the blur slider in Fill and Stroke dialog"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur15497"
+         stdDeviation="3" />
+    </filter>
+    <filter
+       id="filter15499"
+       inkscape:label="Simple blur"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Simple Gaussian blur, same as the blur slider in Fill and Stroke dialog"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur15501"
+         stdDeviation="3" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter15555">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.95"
+         id="feGaussianBlur15557" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter15559">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.95"
+         id="feGaussianBlur15561" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter15563">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.95"
+         id="feGaussianBlur15565" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter15567">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.95"
+         id="feGaussianBlur15569" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter15571">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.95"
+         id="feGaussianBlur15573" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter15575">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.95"
+         id="feGaussianBlur15577" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter15579">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.95"
+         id="feGaussianBlur15581" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter15583">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.95"
+         id="feGaussianBlur15585" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter15587">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.95"
+         id="feGaussianBlur15589" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter15591">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.95"
+         id="feGaussianBlur15593" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter15595">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.95"
+         id="feGaussianBlur15597" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter15599">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.95"
+         id="feGaussianBlur15601" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter15603">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.95"
+         id="feGaussianBlur15605" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.828427"
+     inkscape:cx="86.440303"
+     inkscape:cy="151.98493"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     inkscape:snap-bbox="false"
+     inkscape:snap-nodes="true"
+     inkscape:snap-grids="true"
+     inkscape:window-width="1292"
+     inkscape:window-height="1238"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:showpageshadow="false"
+     borderlayer="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2993"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="16px"
+       spacingy="16px"
+       empcolor="#d60053"
+       empopacity="0.29803922" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid3043"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       color="#ff00f8"
+       opacity="0.1254902"
+       dotted="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2990">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Template</dc:title>
+        <cc:license
+           rdf:resource="https://www.gnu.org/copyleft/gpl.html" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Ian Walters</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>SimpleRP</dc:source>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(0,64)">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="rect7431"
+       width="128"
+       height="128"
+       x="0"
+       y="-64" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7536"
+       d="m 8,-28 -16,-8 -8,36 0,16 12,16 8,0 12,-40 z"
+       style="fill:url(#linearGradient15444);fill-opacity:1;stroke:none;filter:url(#filter15591)"
+       sodipodi:nodetypes="cccccccc" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path7536"
+       id="use3028"
+       transform="translate(128,0)"
+       width="128"
+       height="128"
+       style="filter:url(#filter15579)" />
+    <path
+       sodipodi:nodetypes="ccccccccc"
+       style="fill:url(#linearGradient15439);fill-opacity:1;stroke:none;filter:url(#filter15599)"
+       d="m 100,-52 -8,-24 -8,-12 -36,0 -20,12 4,12 4,12 32,16 z"
+       id="path3050"
+       inkscape:connector-curvature="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3050"
+       id="use3054"
+       transform="translate(0,128)"
+       width="128"
+       height="128"
+       style="filter:url(#filter15559)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3246"
+       d="m 160,-52 -8,-24 -20,-16 -12,0 -24,16 8,24 16,12 16,8 z"
+       style="fill:url(#linearGradient15435);fill-opacity:1;stroke:none;filter:url(#filter15595)"
+       sodipodi:nodetypes="ccccccccc" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3246"
+       id="use3250"
+       transform="translate(-128,0)"
+       width="128"
+       height="128"
+       style="filter:url(#filter15603)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3246"
+       id="use3252"
+       transform="translate(0,128)"
+       width="128"
+       height="128"
+       style="filter:url(#filter15555)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3246"
+       id="use3254"
+       transform="translate(-128,128)"
+       width="128"
+       height="128"
+       style="filter:url(#filter15563)" />
+    <path
+       sodipodi:nodetypes="cccccccc"
+       style="fill:url(#linearGradient15429);fill-opacity:1;stroke:none;filter:url(#filter15587)"
+       d="M 68,-33 34,-49 11,-29 20,-8 40,0 60,0 76,-12 z"
+       id="path3314"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3318"
+       d="m 117,-36 -13,-12 -32,15 9,21 28,9 z"
+       style="fill:url(#linearGradient15426);fill-opacity:1;stroke:none;filter:url(#filter15583)"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3396"
+       d="M 40,3 19,-5 6,34 26,49 47,38 z"
+       style="fill:url(#linearGradient15423);fill-opacity:1;stroke:none;filter:url(#filter15567)"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       style="fill:url(#linearGradient15420);fill-opacity:1;stroke:none;filter:url(#filter15571)"
+       d="m 61,3 -18,0 7,34 34,0 5,-18 z"
+       id="path3400"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       style="fill:url(#linearGradient15417);fill-opacity:1;stroke:none;filter:url(#filter15575)"
+       d="M 109,0 79,-10 64,1 l 27,15 18,0 z"
+       id="path3404"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3408"
+       d="m 110,19 -18,0 -5,20 7,10 27,-16 z"
+       style="fill:url(#linearGradient15414);fill-opacity:1;stroke:none;filter:url(#filter15467)"
+       sodipodi:nodetypes="cccccc" />
+  </g>
+</svg>
