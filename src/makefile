@@ -24,8 +24,8 @@ $(SOURCES_V):
 quant:
 	pngquant --force --quality 90-100 --ext=.png $(OBJECTS)
 
-meta: pack.mcmeta
-	cp pack.mcmeta $(OBJDIR)
+meta: pack.mcmeta pack.png
+	cp pack.mcmeta pack.png $(OBJDIR)
 
 clean:
 	rm -f $(OBJECTS)
