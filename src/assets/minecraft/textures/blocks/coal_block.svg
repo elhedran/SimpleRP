@@ -24,77 +24,6 @@
   <defs
      id="defs2987">
     <linearGradient
-       id="linearGradient4011">
-      <stop
-         id="stop4013"
-         offset="0"
-         style="stop-color:#816647;stop-opacity:1" />
-      <stop
-         id="stop4015"
-         offset="1"
-         style="stop-color:#000000;stop-opacity:0" />
-    </linearGradient>
-    <linearGradient
-       y2="-52"
-       x2="3"
-       y1="-52"
-       x1="-27"
-       gradientTransform="translate(115,80)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3410"
-       xlink:href="#linearGradient3970"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="-52"
-       x2="3"
-       y1="-52"
-       x1="-37"
-       gradientTransform="translate(106,56)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3406"
-       xlink:href="#linearGradient3970"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="-44"
-       x2="9"
-       y1="-44"
-       x1="-33"
-       gradientTransform="translate(78,68)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3402"
-       xlink:href="#linearGradient3970"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="-44"
-       x2="3"
-       y1="-44"
-       x1="-34"
-       gradientTransform="translate(41,68)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3398"
-       xlink:href="#linearGradient3970"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="-44"
-       x2="11"
-       y1="-44"
-       x1="-28"
-       gradientTransform="translate(105,16)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3320"
-       xlink:href="#linearGradient3970"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="-44"
-       x2="24"
-       y1="-44"
-       x1="-28"
-       gradientTransform="translate(44,20)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3316"
-       xlink:href="#linearGradient3970"
-       inkscape:collect="always" />
-    <linearGradient
        id="linearGradient3970">
       <stop
          id="stop3972"
@@ -105,36 +34,6 @@
          offset="1"
          style="stop-color:#000000;stop-opacity:0.43846154;" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3970"
-       id="linearGradient15407"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0,24)"
-       x1="-16"
-       y1="-28"
-       x2="24"
-       y2="-28" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3970"
-       id="linearGradient15409"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,1,-1,0,40,-64)"
-       x1="0"
-       y1="4"
-       x2="0"
-       y2="-52" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3970"
-       id="linearGradient15411"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,1,-1,0,108,-64)"
-       x1="0"
-       y1="4"
-       x2="0"
-       y2="-44" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3970"
@@ -226,56 +125,6 @@
        x2="24"
        y2="-28" />
     <filter
-       id="filter15447"
-       inkscape:label="Simple blur"
-       inkscape:menu="ABCs"
-       inkscape:menu-tooltip="Simple Gaussian blur, same as the blur slider in Fill and Stroke dialog"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur15449"
-         stdDeviation="3" />
-    </filter>
-    <filter
-       id="filter15451"
-       inkscape:label="Simple blur"
-       inkscape:menu="ABCs"
-       inkscape:menu-tooltip="Simple Gaussian blur, same as the blur slider in Fill and Stroke dialog"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur15453"
-         stdDeviation="3" />
-    </filter>
-    <filter
-       id="filter15455"
-       inkscape:label="Simple blur"
-       inkscape:menu="ABCs"
-       inkscape:menu-tooltip="Simple Gaussian blur, same as the blur slider in Fill and Stroke dialog"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur15457"
-         stdDeviation="3" />
-    </filter>
-    <filter
-       id="filter15459"
-       inkscape:label="Simple blur"
-       inkscape:menu="ABCs"
-       inkscape:menu-tooltip="Simple Gaussian blur, same as the blur slider in Fill and Stroke dialog"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur15461"
-         stdDeviation="3" />
-    </filter>
-    <filter
-       id="filter15463"
-       inkscape:label="Simple blur"
-       inkscape:menu="ABCs"
-       inkscape:menu-tooltip="Simple Gaussian blur, same as the blur slider in Fill and Stroke dialog"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur15465"
-         stdDeviation="3" />
-    </filter>
-    <filter
        id="filter15467"
        inkscape:label="Simple blur"
        inkscape:menu="ABCs"
@@ -283,86 +132,6 @@
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          id="feGaussianBlur15469"
-         stdDeviation="3" />
-    </filter>
-    <filter
-       id="filter15471"
-       inkscape:label="Simple blur"
-       inkscape:menu="ABCs"
-       inkscape:menu-tooltip="Simple Gaussian blur, same as the blur slider in Fill and Stroke dialog"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur15473"
-         stdDeviation="3" />
-    </filter>
-    <filter
-       id="filter15475"
-       inkscape:label="Simple blur"
-       inkscape:menu="ABCs"
-       inkscape:menu-tooltip="Simple Gaussian blur, same as the blur slider in Fill and Stroke dialog"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur15477"
-         stdDeviation="3" />
-    </filter>
-    <filter
-       id="filter15479"
-       inkscape:label="Simple blur"
-       inkscape:menu="ABCs"
-       inkscape:menu-tooltip="Simple Gaussian blur, same as the blur slider in Fill and Stroke dialog"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur15481"
-         stdDeviation="3" />
-    </filter>
-    <filter
-       id="filter15483"
-       inkscape:label="Simple blur"
-       inkscape:menu="ABCs"
-       inkscape:menu-tooltip="Simple Gaussian blur, same as the blur slider in Fill and Stroke dialog"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur15485"
-         stdDeviation="3" />
-    </filter>
-    <filter
-       id="filter15487"
-       inkscape:label="Simple blur"
-       inkscape:menu="ABCs"
-       inkscape:menu-tooltip="Simple Gaussian blur, same as the blur slider in Fill and Stroke dialog"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur15489"
-         stdDeviation="3" />
-    </filter>
-    <filter
-       id="filter15491"
-       inkscape:label="Simple blur"
-       inkscape:menu="ABCs"
-       inkscape:menu-tooltip="Simple Gaussian blur, same as the blur slider in Fill and Stroke dialog"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur15493"
-         stdDeviation="3" />
-    </filter>
-    <filter
-       id="filter15495"
-       inkscape:label="Simple blur"
-       inkscape:menu="ABCs"
-       inkscape:menu-tooltip="Simple Gaussian blur, same as the blur slider in Fill and Stroke dialog"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur15497"
-         stdDeviation="3" />
-    </filter>
-    <filter
-       id="filter15499"
-       inkscape:label="Simple blur"
-       inkscape:menu="ABCs"
-       inkscape:menu-tooltip="Simple Gaussian blur, same as the blur slider in Fill and Stroke dialog"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur15501"
          stdDeviation="3" />
     </filter>
     <filter

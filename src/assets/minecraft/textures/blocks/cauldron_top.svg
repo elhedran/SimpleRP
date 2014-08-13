@@ -34,50 +34,6 @@
          offset="1"
          id="stop14163" />
     </linearGradient>
-    <linearGradient
-       id="linearGradient14126">
-      <stop
-         style="stop-color:#1d1b1b;stop-opacity:1;"
-         offset="0"
-         id="stop14128" />
-      <stop
-         style="stop-color:#514f4f;stop-opacity:1;"
-         offset="1"
-         id="stop14130" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4011">
-      <stop
-         id="stop4013"
-         offset="0"
-         style="stop-color:#816647;stop-opacity:1" />
-      <stop
-         id="stop4015"
-         offset="1"
-         style="stop-color:#000000;stop-opacity:0" />
-    </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient14126"
-       id="radialGradient14132"
-       cx="64"
-       cy="64"
-       fx="64"
-       fy="64"
-       r="64"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.25,0,0,0.25,-64,-96)" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient14159"
-       id="radialGradient14165"
-       cx="64"
-       cy="16"
-       fx="64"
-       fy="16"
-       r="64"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-0.875,0,0,-1.75,84,116)" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient14159"
