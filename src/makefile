@@ -8,6 +8,7 @@ SOURCES+=$(wildcard assets/minecraft/textures/colormap/*.svg)
 
 #thaumcraft
 SOURCES+=$(wildcard assets/thaumcraft/textures/blocks/*.svg)
+SOURCES+=$(wildcard assets/thaumcraft/textures/models/*.svg)
 
 OBJECTS=$(addprefix $(OBJDIR)/,$(SOURCES:.svg=.png))
 SOURCES_V=$(addsuffix _V,$(SOURCES))
