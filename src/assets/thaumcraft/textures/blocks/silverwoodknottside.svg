@@ -15,7 +15,7 @@
    id="svg2985"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="silverwoodside.svg"
+   sodipodi:docname="silverwoodknottside.svg"
    inkscape:export-filename="/Users/ianw/drawing.png"
    inkscape:export-xdpi="180"
    inkscape:export-ydpi="180">
@@ -23,6 +23,18 @@
      id="title3119">Template</title>
   <defs
      id="defs2987">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4334">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4336" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4338" />
+    </linearGradient>
     <linearGradient
        id="linearGradient4303">
       <stop
@@ -69,6 +81,102 @@
        x2="128"
        y2="64"
        gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4334"
+       id="radialGradient4340"
+       cx="-192"
+       cy="64"
+       fx="-192"
+       fy="64"
+       r="32"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4334"
+       id="radialGradient4344"
+       gradientUnits="userSpaceOnUse"
+       cx="-192"
+       cy="64"
+       fx="-192"
+       fy="64"
+       r="32" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4334"
+       id="radialGradient4348"
+       gradientUnits="userSpaceOnUse"
+       cx="-192"
+       cy="64"
+       fx="-192"
+       fy="64"
+       r="32" />
+    <filter
+       inkscape:collect="always"
+       id="filter4374"
+       x="-0.21"
+       width="1.42"
+       y="-0.21"
+       height="1.42">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="5.6"
+         id="feGaussianBlur4376" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4378"
+       x="-0.21"
+       width="1.42"
+       y="-0.21"
+       height="1.42">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="5.6"
+         id="feGaussianBlur4380" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4382"
+       x="-0.13125"
+       width="1.2625"
+       y="-0.13125"
+       height="1.2625">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.5"
+         id="feGaussianBlur4384" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4334"
+       id="radialGradient4391"
+       gradientUnits="userSpaceOnUse"
+       cx="-192"
+       cy="64"
+       fx="-192"
+       fy="64"
+       r="32" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4334"
+       id="radialGradient4393"
+       gradientUnits="userSpaceOnUse"
+       cx="-192"
+       cy="64"
+       fx="-192"
+       fy="64"
+       r="32" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4334"
+       id="radialGradient4395"
+       gradientUnits="userSpaceOnUse"
+       cx="-192"
+       cy="64"
+       fx="-192"
+       fy="64"
+       r="32" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -78,15 +186,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.5190623"
-     inkscape:cx="56.19626"
-     inkscape:cy="74.694446"
+     inkscape:cx="5.53999"
+     inkscape:cy="42.936597"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
      inkscape:snap-bbox="true"
-     inkscape:snap-nodes="false"
-     inkscape:snap-grids="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-grids="false"
      inkscape:window-width="1440"
      inkscape:window-height="778"
      inkscape:window-x="0"
@@ -263,5 +371,39 @@
        width="128"
        height="128"
        style="opacity:0.5" />
+    <g
+       id="g4386"
+       transform="translate(253.26885,1.587892)">
+      <path
+         transform="matrix(0.83333333,0,0,0.83333333,-26.666667,-44)"
+         d="m -160,64 c 0,17.673112 -14.32689,32 -32,32 -17.67311,0 -32,-14.326888 -32,-32 0,-17.673112 14.32689,-32 32,-32 17.67311,0 32,14.326888 32,32 z"
+         sodipodi:ry="32"
+         sodipodi:rx="32"
+         sodipodi:cy="64"
+         sodipodi:cx="-192"
+         id="path4332"
+         style="fill:url(#radialGradient4391);fill-opacity:1;stroke:none;filter:url(#filter4382)"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="fill:url(#radialGradient4393);fill-opacity:1;stroke:none;filter:url(#filter4378)"
+         id="path4342"
+         sodipodi:cx="-192"
+         sodipodi:cy="64"
+         sodipodi:rx="32"
+         sodipodi:ry="32"
+         d="m -160,64 c 0,17.673112 -14.32689,32 -32,32 -17.67311,0 -32,-14.326888 -32,-32 0,-17.673112 14.32689,-32 32,-32 17.67311,0 32,14.326888 32,32 z"
+         transform="matrix(0.52083333,0,0,0.52083333,-100,-40.666667)" />
+      <path
+         transform="matrix(0.52083333,0,0,0.52083333,-86.666667,-37.333333)"
+         d="m -160,64 c 0,17.673112 -14.32689,32 -32,32 -17.67311,0 -32,-14.326888 -32,-32 0,-17.673112 14.32689,-32 32,-32 17.67311,0 32,14.326888 32,32 z"
+         sodipodi:ry="32"
+         sodipodi:rx="32"
+         sodipodi:cy="64"
+         sodipodi:cx="-192"
+         id="path4346"
+         style="fill:url(#radialGradient4395);fill-opacity:1;stroke:none;filter:url(#filter4374)"
+         sodipodi:type="arc" />
+    </g>
   </g>
 </svg>
