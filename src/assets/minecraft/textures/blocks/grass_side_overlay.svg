@@ -13,7 +13,7 @@
    height="128"
    id="svg2985"
    version="1.1"
-   inkscape:version="0.48.2 r9819"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="grass_side_overlay.svg"
    inkscape:export-filename="/Users/ianw/drawing.png"
    inkscape:export-xdpi="180"
@@ -29,9 +29,9 @@
      borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568544"
-     inkscape:cx="50.665577"
-     inkscape:cy="123.67177"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="336.03907"
+     inkscape:cy="42.482892"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:document-units="px"
@@ -40,7 +40,7 @@
      inkscape:snap-nodes="true"
      inkscape:snap-grids="true"
      inkscape:window-width="1383"
-     inkscape:window-height="1311"
+     inkscape:window-height="856"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -93,16 +93,6 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      transform="translate(0,64)">
-    <path
-       inkscape:connector-curvature="0"
-       id="path5518"
-       d="m -48.045244,-29.937147 c 0,0 7.481044,-0.532886 11.141981,-3.675942 3.660929,-3.143063 6.735005,-11.006348 6.690942,-13.384227 -0.04406,-2.377879 -11.043943,3.293006 -13.787676,6.997319 -2.74374,3.704306 -4.045247,10.06285 -4.045247,10.06285 z"
-       style="fill:#339900;stroke:#015a01;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path5520"
-       d="m -42.992026,-32.941049 10.992027,-11.058949"
-       style="fill:none;stroke:#98fc66;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        style="fill:#4d4d4d;fill-opacity:1;stroke:#2e2e2e;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 0,16 c 48,16 80,-16 128,0 48,16 8,-24 8,-24 L -8,-8 c 0,0 -40,8 8,24 z"
