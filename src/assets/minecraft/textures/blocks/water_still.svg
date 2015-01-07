@@ -73,16 +73,15 @@
        gradientTransform="translate(-160,-928)" />
     <filter
        inkscape:collect="always"
-       id="filter3921"
-       x="-0.13500001"
-       width="1.27"
-       y="-0.27000001"
-       height="1.54"
-       color-interpolation-filters="sRGB">
+       id="filter3815"
+       x="-0.18"
+       width="1.36"
+       y="-0.36"
+       height="1.72">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="1.8"
-         id="feGaussianBlur3923" />
+         stdDeviation="2.4"
+         id="feGaussianBlur3817" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -92,11 +91,11 @@
      borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.41501091"
-     inkscape:cx="-167.04442"
-     inkscape:cy="440.11625"
+     inkscape:zoom="0.58691406"
+     inkscape:cx="-237.57737"
+     inkscape:cy="512"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
      inkscape:snap-bbox="true"
@@ -159,41 +158,13 @@
     <rect
        style="fill:#2c3ef5;fill-opacity:0.67843137"
        id="rect3047"
-       width="256"
-       height="1152.0007"
-       x="-64"
+       width="448.00009"
+       height="1152.0009"
+       x="-256"
        y="-960"
        transform="translate(0,-64)" />
-    <image
-       y="-128"
-       x="432"
-       id="image3038"
-       xlink:href="file:///Users/ianw/play/SimpleRP/src/default/assets/minecraft/textures/blocks/water_still.png"
-       height="512"
-       width="16" />
-    <image
-       y="-128"
-       x="512"
-       id="image3068"
-       xlink:href="file:///Users/ianw/Library/Application%20Support/minecraft-local-client/resourcepacks/sphax/assets/minecraft/textures/blocks/water_still.png"
-       height="8192"
-       width="128" />
-    <image
-       y="-128"
-       x="672"
-       id="image3098"
-       xlink:href="file:///Users/ianw/Library/Application%20Support/minecraft-local-client/resourcepacks/sphax/assets/minecraft/textures/blocks/water_flow.png"
-       height="8192"
-       width="256" />
-    <image
-       y="-128"
-       x="464"
-       id="image3896"
-       xlink:href="file:///Users/ianw/play/SimpleRP/src/default/assets/minecraft/textures/blocks/water_flow.png"
-       height="1024"
-       width="32" />
     <path
-       style="opacity:0.8;fill:url(#linearGradient3915);fill-opacity:1;stroke:none;filter:url(#filter3921)"
+       style="opacity:0.5;fill:url(#linearGradient3915);fill-opacity:1;stroke:none;filter:url(#filter3815)"
        d="m -112,-912 32,0 c 0,0 -8.45753,-16 -16,-16 -7.54247,0 -16,16 -16,16 z"
        id="path3899"
        inkscape:connector-curvature="0"
