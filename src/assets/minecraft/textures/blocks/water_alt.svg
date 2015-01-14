@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   id="svg2985"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="water_alt.svg"
+   inkscape:export-filename="/Users/ianw/drawing.png"
+   inkscape:export-xdpi="180"
+   inkscape:export-ydpi="180">
+  <title
+     id="title3119">Template</title>
+  <defs
+     id="defs2987">
+    <linearGradient
+       id="linearGradient3970">
+      <stop
+         style="stop-color:#294770;stop-opacity:1;"
+         offset="0"
+         id="stop3972" />
+      <stop
+         style="stop-color:#347896;stop-opacity:0.50196081;"
+         offset="1"
+         id="stop3974" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient3042"
+       gradientUnits="userSpaceOnUse"
+       x1="-16"
+       y1="-28"
+       x2="24"
+       y2="-28"
+       gradientTransform="translate(0,24)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient3244"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,1,-1,0,40,-64)"
+       x1="0"
+       y1="4"
+       x2="0"
+       y2="-52" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient3312"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,1,-1,0,108,-64)"
+       x1="0"
+       y1="4"
+       x2="0"
+       y2="-44" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient3316"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(44,20)"
+       x1="-28"
+       y1="-44"
+       x2="24"
+       y2="-44" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient3320"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(105,16)"
+       x1="-28"
+       y1="-44"
+       x2="11"
+       y2="-44" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient3398"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(41,68)"
+       x1="-34"
+       y1="-44"
+       x2="3"
+       y2="-44" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient3402"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(78,68)"
+       x1="-33"
+       y1="-44"
+       x2="9"
+       y2="-44" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient3406"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(106,56)"
+       x1="-37"
+       y1="-52"
+       x2="3"
+       y2="-52" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient3410"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(115,80)"
+       x1="-27"
+       y1="-52"
+       x2="3"
+       y2="-52" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient4369"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-84,148)"
+       x1="-28"
+       y1="-44"
+       x2="24"
+       y2="-44" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient4373"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-22,184)"
+       x1="-37"
+       y1="-52"
+       x2="3"
+       y2="-52" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient4377"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(41,196)"
+       x1="-34"
+       y1="-44"
+       x2="3"
+       y2="-44" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient4381"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,152)"
+       x1="-16"
+       y1="-28"
+       x2="24"
+       y2="-28" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient4385"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-23,144)"
+       x1="-28"
+       y1="-44"
+       x2="11"
+       y2="-44" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient4389"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-50,68)"
+       x1="-33"
+       y1="-44"
+       x2="9"
+       y2="-44" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient4393"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-84,20)"
+       x1="-28"
+       y1="-44"
+       x2="24"
+       y2="-44" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient4397"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-22,-72)"
+       x1="-37"
+       y1="-52"
+       x2="3"
+       y2="-52" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient4401"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-13,-48)"
+       x1="-27"
+       y1="-52"
+       x2="3"
+       y2="-52" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient4405"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-50,-60)"
+       x1="-33"
+       y1="-44"
+       x2="9"
+       y2="-44" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient4409"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,1,-1,0,-88,64)"
+       x1="0"
+       y1="4"
+       x2="0"
+       y2="-52" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient4413"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,1,-1,0,-88,-64)"
+       x1="0"
+       y1="4"
+       x2="0"
+       y2="-52" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient4417"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(169,196)"
+       x1="-34"
+       y1="-44"
+       x2="3"
+       y2="-44" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient4421"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(106,184)"
+       x1="-37"
+       y1="-52"
+       x2="3"
+       y2="-52" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient4425"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(128,152)"
+       x1="-16"
+       y1="-28"
+       x2="24"
+       y2="-28" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient4429"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(172,148)"
+       x1="-28"
+       y1="-44"
+       x2="24"
+       y2="-44" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient4433"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(206,-60)"
+       x1="-33"
+       y1="-44"
+       x2="9"
+       y2="-44" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient4437"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(169,-60)"
+       x1="-34"
+       y1="-44"
+       x2="3"
+       y2="-44" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient4441"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(44,-108)"
+       x1="-28"
+       y1="-44"
+       x2="24"
+       y2="-44" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient4445"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(106,-72)"
+       x1="-37"
+       y1="-52"
+       x2="3"
+       y2="-52" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient4449"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(128,-104)"
+       x1="-16"
+       y1="-28"
+       x2="24"
+       y2="-28" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient4453"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-104)"
+       x1="-16"
+       y1="-28"
+       x2="24"
+       y2="-28" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient4457"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,1,-1,0,168,64)"
+       x1="0"
+       y1="4"
+       x2="0"
+       y2="-52" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient4461"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,1,-1,0,168,-64)"
+       x1="0"
+       y1="4"
+       x2="0"
+       y2="-52" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient4465"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(206,68)"
+       x1="-33"
+       y1="-44"
+       x2="9"
+       y2="-44" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient4469"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(234,56)"
+       x1="-37"
+       y1="-52"
+       x2="3"
+       y2="-52" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient4473"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(78,-60)"
+       x1="-33"
+       y1="-44"
+       x2="9"
+       y2="-44" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient4477"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-22,56)"
+       x1="-37"
+       y1="-52"
+       x2="3"
+       y2="-52" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient4481"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-13,80)"
+       x1="-27"
+       y1="-52"
+       x2="3"
+       y2="-52" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient4485"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(115,-48)"
+       x1="-27"
+       y1="-52"
+       x2="3"
+       y2="-52" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient4489"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(105,144)"
+       x1="-28"
+       y1="-44"
+       x2="11"
+       y2="-44" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient4493"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-23,16)"
+       x1="-28"
+       y1="-44"
+       x2="11"
+       y2="-44" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient4497"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(44,148)"
+       x1="-28"
+       y1="-44"
+       x2="24"
+       y2="-44" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient4501"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(41,-60)"
+       x1="-34"
+       y1="-44"
+       x2="3"
+       y2="-44" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient4505"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(172,20)"
+       x1="-28"
+       y1="-44"
+       x2="24"
+       y2="-44" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient4509"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(169,68)"
+       x1="-34"
+       y1="-44"
+       x2="3"
+       y2="-44" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient4513"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,1,-1,0,-20,64)"
+       x1="0"
+       y1="4"
+       x2="0"
+       y2="-44" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient4517"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,1,-1,0,108,64)"
+       x1="0"
+       y1="4"
+       x2="0"
+       y2="-44" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient4521"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,1,-1,0,-20,-64)"
+       x1="0"
+       y1="4"
+       x2="0"
+       y2="-44" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient4525"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,1,-1,0,40,64)"
+       x1="0"
+       y1="4"
+       x2="0"
+       y2="-52" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3970"
+       id="linearGradient4529"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(128,24)"
+       x1="-16"
+       y1="-28"
+       x2="24"
+       y2="-28" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.3085886"
+     inkscape:cx="256.3645"
+     inkscape:cy="32.004318"
+     inkscape:current-layer="layer6"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-grids="true"
+     inkscape:window-width="1440"
+     inkscape:window-height="856"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:showpageshadow="false"
+     borderlayer="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2993"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="16px"
+       spacingy="16px"
+       empcolor="#d60053"
+       empopacity="0.29803922" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid3043"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       color="#ff00f8"
+       opacity="0.1254902"
+       dotted="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2990">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Template</dc:title>
+        <cc:license
+           rdf:resource="https://www.gnu.org/copyleft/gpl.html" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Ian Walters</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>SimpleRP</dc:source>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="transparency"
+     inkscape:groupmode="layer"
+     transform="translate(0,64)"
+     style="display:inline">
+    <g
+       inkscape:groupmode="layer"
+       id="layer7"
+       inkscape:label="base"
+       sodipodi:insensitive="true"
+       style="display:inline">
+      <rect
+         style="fill:#283b5a;fill-opacity:1;stroke:none;display:inline"
+         id="rect7431"
+         width="256"
+         height="256"
+         x="-64"
+         y="-64"
+         transform="translate(0,-64)" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer6"
+       inkscape:label="pattern1"
+       style="display:inline">
+      <path
+         style="opacity:1;color:#000000;fill:#8da9d7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="M -64 -64 L -64 -59.09375 C -63.12775 -58.71646 -62.279346 -58.306948 -61.46875 -57.84375 L -44.8125 -48.3125 C -42.087482 -46.75534 -39.359474 -43.7309 -40.03125 -41.3125 L -42.8125 -31.28125 C -43.655544 -28.246291 -45.264929 -27 -48.25 -27 L -64 -27 L -64 -24 L -51.75 -24 C -46.532666 -24 -43.103255 -22.670507 -41.34375 -20.03125 L -38.6875 -16 C -36.828825 -13.211987 -35.523271 -10.569813 -34.4375 -7.3125 L -30.25 5.21875 C -28.420257 10.70798 -32.549527 14.290388 -35.34375 15.6875 L -53.0625 24.53125 C -56.05382 26.02691 -60.030097 26.43853 -64 25.46875 L -64 29.21875 C -61.222023 30.7824 -59.400128 32.594195 -57.78125 36.84375 L -53.84375 47.15625 C -52.661498 50.259661 -54.910695 54.159584 -57.65625 56.21875 L -61.96875 59.46875 C -62.704989 60.020929 -63.355233 60.503718 -64 60.96875 L -64 68.90625 C -63.12775 69.28354 -62.279346 69.693052 -61.46875 70.15625 L -44.8125 79.6875 C -42.087482 81.244654 -39.359474 84.269104 -40.03125 86.6875 L -42.8125 96.71875 C -43.655544 99.753709 -45.264929 101 -48.25 101 L -64 101 L -64 104 L -51.75 104 C -46.532666 104 -43.103255 105.32949 -41.34375 107.96875 L -38.6875 112 C -36.828825 114.78801 -35.523271 117.43019 -34.4375 120.6875 L -30.25 133.21875 C -28.420257 138.70798 -32.549527 142.29039 -35.34375 143.6875 L -53.0625 152.53125 C -56.05382 154.02691 -60.030097 154.43853 -64 153.46875 L -64 157.21875 C -61.222023 158.7824 -59.400128 160.5942 -57.78125 164.84375 L -53.84375 175.15625 C -52.661498 178.25966 -54.910695 182.15958 -57.65625 184.21875 L -61.96875 187.46875 C -62.704989 188.02093 -63.355233 188.50372 -64 188.96875 L -64 192 L -61.6875 192 C -61.389224 191.25839 -60.582677 190.48563 -59.28125 189.53125 L -52.96875 184.90625 C -48.747225 181.81047 -47.710049 182.4404 -42.375 184.21875 L -23.375 190.53125 C -22.225448 190.91443 -21.376681 191.42272 -20.71875 192 L -15.75 192 C -15.507679 190.01334 -15.110005 188.07315 -14.65625 186.03125 L -9.4375 162.40625 C -8.6638773 158.92495 -6.003641 156.99818 -4 158 L 2.84375 161.4375 C 5.7951516 162.9132 8.5728616 165.41653 9.90625 168.75 L 14.1875 179.46875 C 15.430077 182.57518 14.910948 186.98511 13.5625 192 L 17.9375 192 C 19.879908 189.20156 22.482508 188.32518 25.8125 189.59375 L 32.15625 192 L 46.125 192 C 41.6778 192 38.420126 191.3743 34.125 189.65625 L 23.75 185.5 C 21.08865 184.43546 19.556791 183.00751 17.90625 179.15625 L 13.21875 168.21875 C 11.869662 165.07088 13.167369 161.1262 16.1875 158.5 L 27.5 148.65625 C 30.885922 145.71197 37.4107 144.59401 42.125 146.8125 L 59.375 154.9375 C 65.075056 157.61988 67.836852 158.59127 70.21875 164.84375 L 74.15625 175.15625 C 75.338502 178.25966 73.089305 182.15958 70.34375 184.21875 L 66.03125 187.46875 C 62.327995 190.24619 60.228293 192 55.34375 192 L 66.3125 192 C 66.610776 191.25839 67.417323 190.48563 68.71875 189.53125 L 75.03125 184.90625 C 79.252775 181.81047 80.289951 182.4404 85.625 184.21875 L 104.625 190.53125 C 105.77455 190.91443 106.62332 191.42272 107.28125 192 L 112.25 192 C 112.49232 190.01334 112.88999 188.07315 113.34375 186.03125 L 118.5625 162.40625 C 119.33612 158.92495 121.99636 156.99818 124 158 L 130.84375 161.4375 C 133.79515 162.9132 136.57286 165.41653 137.90625 168.75 L 142.1875 179.46875 C 143.43008 182.57518 142.91095 186.98511 141.5625 192 L 145.9375 192 C 147.87991 189.20156 150.4825 188.32518 153.8125 189.59375 L 160.15625 192 L 174.125 192 C 169.6778 192 166.42012 191.3743 162.125 189.65625 L 151.75 185.5 C 149.08865 184.43546 147.5568 183.00751 145.90625 179.15625 L 141.21875 168.21875 C 139.86966 165.07088 141.16737 161.1262 144.1875 158.5 L 155.5 148.65625 C 158.88592 145.71197 165.4107 144.59401 170.125 146.8125 L 187.375 154.9375 C 189.20096 155.79678 190.69067 156.48176 192 157.21875 L 192 153.46875 C 190.70568 153.15257 189.40751 152.68813 188.15625 152.0625 L 169.6875 142.84375 C 166.64132 141.32066 163.39718 138.2228 162.21875 134.6875 L 160 128 L 157.8125 121.40625 C 156.83829 118.48364 157.62852 115.01664 160 113.59375 L 170.96875 107 C 174.47652 104.89534 177.87761 104 183.125 104 L 192 104 L 192 101 L 182.375 101 C 179.37851 101 177.63994 99.184147 177.09375 96.53125 L 172.125 72.4375 C 171.50827 69.441927 173.01283 67 175.25 67 L 183.75 67 C 186.3264 67 189.26238 67.722097 192 68.90625 L 192 60.96875 C 189.40162 62.842812 187.2572 64 183.34375 64 L 174.125 64 C 169.6778 64 166.42012 63.3743 162.125 61.65625 L 151.75 57.5 C 149.08865 56.43546 147.5568 55.007513 145.90625 51.15625 L 141.21875 40.21875 C 139.86966 37.070878 141.16737 33.126201 144.1875 30.5 L 155.5 20.65625 C 158.88592 17.71197 165.4107 16.594006 170.125 18.8125 L 187.375 26.9375 C 189.20096 27.796776 190.69067 28.481761 192 29.21875 L 192 25.46875 C 190.70568 25.15257 189.40751 24.688133 188.15625 24.0625 L 169.6875 14.84375 C 166.64132 13.32066 163.39718 10.2228 162.21875 6.6875 L 160 0 L 157.8125 -6.59375 C 156.83829 -9.516358 157.62852 -12.983357 160 -14.40625 L 170.96875 -21 C 174.47652 -23.104658 177.87761 -24 183.125 -24 L 192 -24 L 192 -27 L 182.375 -27 C 179.37851 -27 177.63994 -28.815853 177.09375 -31.46875 L 172.125 -55.5625 C 171.50827 -58.55807 173.01283 -61 175.25 -61 L 183.75 -61 C 186.3264 -61 189.26238 -60.277902 192 -59.09375 L 192 -64 L 160.15625 -64 L 162.21875 -63.21875 C 166.54495 -61.57067 168.49137 -58.6056 169.6875 -52.625 L 173.5625 -33.25 C 174.42411 -28.941978 172.67873 -24.772197 169.59375 -23.15625 L 160 -18.15625 C 156.78114 -16.47018 151.63172 -16.768398 149.15625 -18.625 L 139.15625 -26.125 C 135.69424 -28.721509 134.65046 -31.98264 136.5 -37.53125 L 143.9375 -59.84375 C 144.49596 -61.519114 145.17743 -62.904956 145.9375 -64 L 141.5625 -64 C 141.38899 -63.354717 141.19933 -62.695696 141 -62.03125 L 133.3125 -36.40625 C 132.49745 -33.689414 131.61998 -32 129.625 -32 L 126.375 -32 C 124.45509 -32 122.84808 -33.546306 121.6875 -35.09375 L 114.59375 -44.5625 C 113.04726 -46.62448 112 -49.18915 112 -53.25 L 112 -60.75 C 112 -61.858696 112.11981 -62.932646 112.25 -64 L 107.28125 -64 C 110.07179 -61.551522 109.02484 -57.822568 109 -56.75 C 108.9845 -56.07983 108.9147 -54.39926 108.9375 -52.78125 C 108.97118 -50.39687 108.75467 -48 105.1875 -48 L 95.28125 -48 C 91.027575 -48 88.543355 -49.35438 84.625 -51.53125 L 71.34375 -58.90625 C 67.166096 -61.227168 65.735683 -62.565847 66.3125 -64 L 55.34375 -64 L 46.125 -64 L 32.15625 -64 L 34.21875 -63.21875 C 38.544957 -61.57067 40.491379 -58.6056 41.6875 -52.625 L 45.5625 -33.25 C 46.424105 -28.941978 44.678739 -24.772197 41.59375 -23.15625 L 32 -18.15625 C 28.781138 -16.47018 23.63172 -16.768398 21.15625 -18.625 L 11.15625 -26.125 C 7.694238 -28.721509 6.6504627 -31.98264 8.5 -37.53125 L 15.9375 -59.84375 C 16.495954 -61.519114 17.177427 -62.904956 17.9375 -64 L 13.5625 -64 C 13.388991 -63.354717 13.199334 -62.695696 13 -62.03125 L 5.3125 -36.40625 C 4.4974488 -33.689414 3.619977 -32 1.625 -32 L -1.625 -32 C -3.5449091 -32 -5.1519169 -33.546306 -6.3125 -35.09375 L -13.40625 -44.5625 C -14.952736 -46.62448 -16 -49.18915 -16 -53.25 L -16 -60.75 C -16 -61.858696 -15.880189 -62.932646 -15.75 -64 L -20.71875 -64 C -17.928213 -61.551522 -18.975157 -57.822568 -19 -56.75 C -19.0155 -56.07983 -19.0853 -54.39926 -19.0625 -52.78125 C -19.02882 -50.39687 -19.24533 -48 -22.8125 -48 L -32.71875 -48 C -36.972425 -48 -39.456645 -49.35438 -43.375 -51.53125 L -56.65625 -58.90625 C -60.833904 -61.227168 -62.264317 -62.565847 -61.6875 -64 L -64 -64 z M 47.25 -61 L 55.75 -61 C 59.147275 -61 63.176535 -59.76073 66.53125 -57.84375 L 83.1875 -48.3125 C 85.912518 -46.75534 88.640526 -43.7309 87.96875 -41.3125 L 85.1875 -31.28125 C 84.344456 -28.246291 82.735071 -27 79.75 -27 L 54.375 -27 C 51.378506 -27 49.639935 -28.815853 49.09375 -31.46875 L 44.125 -55.5625 C 43.508264 -58.55807 45.012829 -61 47.25 -61 z M -30.875 -45 L -22.28125 -45 C -19.00548 -45 -16.80601 -43.46901 -15.0625 -41.25 L -10.125 -34.96875 C -8.35276 -32.713174 -9.66275 -29.440588 -11.25 -28.5 L -27.125 -19.0625 C -30.652752 -16.971978 -34.240964 -15.33977 -35.90625 -17.71875 L -38.96875 -22.09375 C -40.272528 -23.956291 -40.388175 -27.41605 -39.78125 -29.84375 L -37.34375 -39.59375 C -36.486025 -43.02464 -34.725859 -45 -30.875 -45 z M 97.125 -45 L 105.71875 -45 C 108.99452 -45 111.19399 -43.46901 112.9375 -41.25 L 117.875 -34.96875 C 119.64724 -32.713174 118.33725 -29.440588 116.75 -28.5 L 100.875 -19.0625 C 97.347248 -16.971978 93.759036 -15.33977 92.09375 -17.71875 L 89.03125 -22.09375 C 87.727472 -23.956291 87.611825 -27.41605 88.21875 -29.84375 L 90.65625 -39.59375 C 91.513975 -43.02464 93.274141 -45 97.125 -45 z M -3.375 -28 L 1.125 -28 C 3.8934 -28 6.39095 -26.080993 9.34375 -23.71875 L 18.65625 -16.28125 C 22.81087 -12.957547 24.40715 -10.80979 26.1875 -5.46875 L 29.3125 3.96875 C 31.17186 9.546829 28.96387 14.540527 26.5 16.59375 L 14.8125 26.3125 C 11.6189 28.973833 6.67613 31.338065 3 29.5 L -3.34375 26.3125 C -6.19254 24.888104 -8.8273 23.371708 -11.40625 21.4375 L -19.0625 15.71875 C -22.44741 13.180068 -24.62057 10.107027 -26.46875 4.5625 L -29.4375 -4.3125 C -31.125105 -9.375316 -30.141681 -13.23888 -26.84375 -15.4375 L -12.84375 -24.78125 C -9.49574 -27.013251 -6.36046 -28 -3.375 -28 z M 124.625 -28 L 129.125 -28 C 131.8934 -28 134.39095 -26.080993 137.34375 -23.71875 L 146.65625 -16.28125 C 150.81087 -12.957547 152.40715 -10.80979 154.1875 -5.46875 L 157.3125 3.96875 C 159.17186 9.546829 156.96387 14.540527 154.5 16.59375 L 142.8125 26.3125 C 139.6189 28.973833 134.67613 31.338065 131 29.5 L 124.65625 26.3125 C 121.80746 24.888104 119.1727 23.371708 116.59375 21.4375 L 108.9375 15.71875 C 105.55259 13.180068 103.37943 10.107027 101.53125 4.5625 L 98.5625 -4.3125 C 96.874895 -9.375316 97.858319 -13.23888 101.15625 -15.4375 L 115.15625 -24.78125 C 118.50426 -27.013251 121.63954 -28 124.625 -28 z M 55.125 -24 L 76.25 -24 C 81.467334 -24 84.896745 -22.670507 86.65625 -20.03125 L 89.3125 -16 C 91.171175 -13.211987 92.476729 -10.569813 93.5625 -7.3125 L 97.75 5.21875 C 99.579743 10.70798 95.450473 14.290388 92.65625 15.6875 L 74.9375 24.53125 C 70.970911 26.514545 65.245365 26.607058 60.15625 24.0625 L 41.6875 14.84375 C 38.64132 13.32066 35.397184 10.2228 34.21875 6.6875 L 32 0 L 29.8125 -6.59375 C 28.838297 -9.516358 29.628512 -12.983357 32 -14.40625 L 42.96875 -21 C 46.476513 -23.104658 49.877608 -24 55.125 -24 z M 36.3125 17.65625 C 38.326628 17.633272 40.357138 17.980565 42.125 18.8125 L 59.375 26.9375 C 65.075056 29.61988 67.836852 30.591269 70.21875 36.84375 L 74.15625 47.15625 C 75.338502 50.259661 73.089305 54.159584 70.34375 56.21875 L 66.03125 59.46875 C 62.327995 62.246192 60.228293 64 55.34375 64 L 46.125 64 C 41.6778 64 38.420126 63.3743 34.125 61.65625 L 23.75 57.5 C 21.08865 56.43546 19.556791 55.007513 17.90625 51.15625 L 13.21875 40.21875 C 11.869662 37.070878 13.167369 33.126201 16.1875 30.5 L 27.5 20.65625 C 29.616201 18.816075 32.955619 17.694546 36.3125 17.65625 z M -25.1875 18 C -23.110796 18.026614 -21.13031 18.648944 -19.53125 20.125 L -14.25 25 C -12.06036 27.021203 -11.42492 29.690285 -12.25 33.09375 L -16.90625 52.4375 C -18.25648 58.007202 -22.40862 59.917766 -27.5 58.28125 L -42.375 53.5 C -46.561339 52.15439 -47.237603 51.456009 -49.09375 47.125 L -54.1875 35.21875 C -55.046491 33.214438 -54.096648 30.099015 -51.21875 28.75 L -31.34375 19.4375 C -29.421064 18.536241 -27.264204 17.973386 -25.1875 18 z M 102.8125 18 C 104.8892 18.026614 106.86969 18.648944 108.46875 20.125 L 113.75 25 C 115.93964 27.021203 116.57508 29.690285 115.75 33.09375 L 111.09375 52.4375 C 109.74352 58.007202 105.59138 59.917766 100.5 58.28125 L 85.625 53.5 C 81.438661 52.15439 80.762397 51.456009 78.90625 47.125 L 73.8125 35.21875 C 72.953509 33.214438 73.903352 30.099015 76.78125 28.75 L 96.65625 19.4375 C 98.578936 18.536241 100.7358 17.973386 102.8125 18 z M -5.1875 29.75 C -4.783045 29.740248 -4.3756827 29.812159 -4 30 L 2.84375 33.4375 C 5.7951516 34.913201 8.5728616 37.41653 9.90625 40.75 L 14.1875 51.46875 C 15.589964 54.97491 14.748481 60.140482 13 65.96875 L 5.3125 91.59375 C 4.4974488 94.310587 3.619977 96 1.625 96 L -1.625 96 C -3.5449091 96 -5.1519169 94.453694 -6.3125 92.90625 L -13.40625 83.4375 C -14.952736 81.37552 -16 78.810854 -16 74.75 L -16 67.25 C -16 64.077689 -15.353789 61.170177 -14.65625 58.03125 L -9.4375 34.40625 C -8.8089316 31.577692 -6.9401381 29.792261 -5.1875 29.75 z M 122.8125 29.75 C 123.21696 29.740248 123.62432 29.812159 124 30 L 130.84375 33.4375 C 133.79515 34.913201 136.57286 37.41653 137.90625 40.75 L 142.1875 51.46875 C 143.58997 54.97491 142.74848 60.140482 141 65.96875 L 133.3125 91.59375 C 132.49745 94.310587 131.61998 96 129.625 96 L 126.375 96 C 124.45509 96 122.84808 94.453694 121.6875 92.90625 L 114.59375 83.4375 C 113.04726 81.37552 112 78.810854 112 74.75 L 112 67.25 C 112 64.077689 112.64621 61.170177 113.34375 58.03125 L 118.5625 34.40625 C 119.19107 31.577692 121.05986 29.792261 122.8125 29.75 z M -48.09375 54.71875 C -46.63938 54.707689 -45.042524 55.329575 -42.375 56.21875 L -23.375 62.53125 C -17.34976 64.539663 -18.9693 69.924553 -19 71.25 C -19.0155 71.920169 -19.0853 73.60074 -19.0625 75.21875 C -19.02882 77.603126 -19.24533 80 -22.8125 80 L -32.71875 80 C -36.972425 80 -39.456645 78.645614 -43.375 76.46875 L -56.65625 69.09375 C -62.994197 65.572668 -63.099424 64.331245 -59.28125 61.53125 L -52.96875 56.90625 C -50.857988 55.358358 -49.54812 54.729811 -48.09375 54.71875 z M 79.90625 54.71875 C 81.36062 54.707689 82.957476 55.329575 85.625 56.21875 L 104.625 62.53125 C 110.65024 64.539663 109.0307 69.924553 109 71.25 C 108.9845 71.920169 108.9147 73.60074 108.9375 75.21875 C 108.97118 77.603126 108.75467 80 105.1875 80 L 95.28125 80 C 91.027575 80 88.543355 78.645614 84.625 76.46875 L 71.34375 69.09375 C 65.005803 65.572668 64.900576 64.331245 68.71875 61.53125 L 75.03125 56.90625 C 77.142013 55.358358 78.45188 54.729811 79.90625 54.71875 z M 22.59375 61.03125 C 23.580116 60.964742 24.654242 61.152509 25.8125 61.59375 L 34.21875 64.78125 C 38.544957 66.429329 40.491379 69.394395 41.6875 75.375 L 45.5625 94.75 C 46.424105 99.058022 44.678739 103.2278 41.59375 104.84375 L 32 109.84375 C 28.781138 111.52982 23.63172 111.2316 21.15625 109.375 L 11.15625 101.875 C 7.694238 99.278491 6.6504627 96.017362 8.5 90.46875 L 15.9375 68.15625 C 17.426712 63.688613 19.634651 61.230773 22.59375 61.03125 z M 150.59375 61.03125 C 151.58012 60.964742 152.65424 61.152509 153.8125 61.59375 L 162.21875 64.78125 C 166.54495 66.429329 168.49137 69.394395 169.6875 75.375 L 173.5625 94.75 C 174.42411 99.058022 172.67873 103.2278 169.59375 104.84375 L 160 109.84375 C 156.78114 111.52982 151.63172 111.2316 149.15625 109.375 L 139.15625 101.875 C 135.69424 99.278491 134.65046 96.017362 136.5 90.46875 L 143.9375 68.15625 C 145.42672 63.688613 147.63465 61.230773 150.59375 61.03125 z M 47.25 67 L 55.75 67 C 59.147275 67 63.176535 68.23927 66.53125 70.15625 L 83.1875 79.6875 C 85.912518 81.244654 88.640526 84.269104 87.96875 86.6875 L 85.1875 96.71875 C 84.344456 99.753709 82.735071 101 79.75 101 L 54.375 101 C 51.378506 101 49.639935 99.184147 49.09375 96.53125 L 44.125 72.4375 C 43.508264 69.441927 45.012829 67 47.25 67 z M -30.875 83 L -22.28125 83 C -19.00548 83 -16.80601 84.530988 -15.0625 86.75 L -10.125 93.03125 C -8.35276 95.286826 -9.66275 98.559412 -11.25 99.5 L -27.125 108.9375 C -30.652752 111.02802 -34.240964 112.66023 -35.90625 110.28125 L -38.96875 105.90625 C -40.272528 104.04371 -40.388175 100.58395 -39.78125 98.15625 L -37.34375 88.40625 C -36.486025 84.975353 -34.725859 83 -30.875 83 z M 97.125 83 L 105.71875 83 C 108.99452 83 111.19399 84.530988 112.9375 86.75 L 117.875 93.03125 C 119.64724 95.286826 118.33725 98.559412 116.75 99.5 L 100.875 108.9375 C 97.347248 111.02802 93.759036 112.66023 92.09375 110.28125 L 89.03125 105.90625 C 87.727472 104.04371 87.611825 100.58395 88.21875 98.15625 L 90.65625 88.40625 C 91.513975 84.975353 93.274141 83 97.125 83 z M -3.375 100 L 1.125 100 C 3.8934 100 6.39095 101.91901 9.34375 104.28125 L 18.65625 111.71875 C 22.81087 115.04245 24.40715 117.19021 26.1875 122.53125 L 29.3125 131.96875 C 31.17186 137.54683 28.96387 142.54053 26.5 144.59375 L 14.8125 154.3125 C 11.6189 156.97383 6.67613 159.33807 3 157.5 L -3.34375 154.3125 C -6.19254 152.8881 -8.8273 151.37171 -11.40625 149.4375 L -19.0625 143.71875 C -22.44741 141.18007 -24.62057 138.10703 -26.46875 132.5625 L -29.4375 123.6875 C -31.125105 118.62468 -30.141681 114.76112 -26.84375 112.5625 L -12.84375 103.21875 C -9.49574 100.98675 -6.36046 100 -3.375 100 z M 124.625 100 L 129.125 100 C 131.8934 100 134.39095 101.91901 137.34375 104.28125 L 146.65625 111.71875 C 150.81087 115.04245 152.40715 117.19021 154.1875 122.53125 L 157.3125 131.96875 C 159.17186 137.54683 156.96387 142.54053 154.5 144.59375 L 142.8125 154.3125 C 139.6189 156.97383 134.67613 159.33807 131 157.5 L 124.65625 154.3125 C 121.80746 152.8881 119.1727 151.37171 116.59375 149.4375 L 108.9375 143.71875 C 105.55259 141.18007 103.37943 138.10703 101.53125 132.5625 L 98.5625 123.6875 C 96.874895 118.62468 97.858319 114.76112 101.15625 112.5625 L 115.15625 103.21875 C 118.50426 100.98675 121.63954 100 124.625 100 z M 55.125 104 L 76.25 104 C 81.467334 104 84.896745 105.32949 86.65625 107.96875 L 89.3125 112 C 91.171175 114.78801 92.476729 117.43019 93.5625 120.6875 L 97.75 133.21875 C 99.579743 138.70798 95.450473 142.29039 92.65625 143.6875 L 74.9375 152.53125 C 70.970911 154.51454 65.245365 154.60706 60.15625 152.0625 L 41.6875 142.84375 C 38.64132 141.32066 35.397184 138.2228 34.21875 134.6875 L 32 128 L 29.8125 121.40625 C 28.838297 118.48364 29.628512 115.01664 32 113.59375 L 42.96875 107 C 46.476513 104.89534 49.877608 104 55.125 104 z M -25.1875 146 C -23.110796 146.02661 -21.13031 146.64894 -19.53125 148.125 L -14.25 153 C -12.06036 155.0212 -11.42492 157.69028 -12.25 161.09375 L -16.90625 180.4375 C -18.25648 186.0072 -22.40862 187.91776 -27.5 186.28125 L -42.375 181.5 C -46.561339 180.15439 -47.237603 179.456 -49.09375 175.125 L -54.1875 163.21875 C -55.046491 161.21444 -54.096648 158.09901 -51.21875 156.75 L -31.34375 147.4375 C -29.421064 146.53624 -27.264204 145.97339 -25.1875 146 z M 102.8125 146 C 104.8892 146.02661 106.86969 146.64894 108.46875 148.125 L 113.75 153 C 115.93964 155.0212 116.57508 157.69028 115.75 161.09375 L 111.09375 180.4375 C 109.74352 186.0072 105.59138 187.91776 100.5 186.28125 L 85.625 181.5 C 81.438661 180.15439 80.762397 179.456 78.90625 175.125 L 73.8125 163.21875 C 72.953509 161.21444 73.903352 158.09901 76.78125 156.75 L 96.65625 147.4375 C 98.578936 146.53624 100.7358 145.97339 102.8125 146 z M 192 188.96875 C 189.40162 190.84281 187.2572 192 183.34375 192 L 192 192 L 192 188.96875 z "
+         id="rect4532"
+         transform="translate(0,-64)" />
+    </g>
+  </g>
+</svg>
